@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaufland</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header class="navbar">
+        <nav class="nav">
+            <button class="menu-toggle">☰</button>
+            <div class="overlay"></div>
+            <div class="side-menu">
+                <button class="close-menu">✕</button>
+                <ul>
+                    <li data-category="todos">Todos</li>
+                    <li data-category="cocina">Cocina</li>
+                    <li data-category="hogar">Hogar</li>
+                    <li data-category="deporte">Deporte</li>
+                    <li data-category="musica">Música</li>
+                    <li data-category="tech">Tech</li>
+                    <li data-category="diversion">Diversión</li>
+                    <li data-category="ropa">Ropa</li>
+                    <li data-category="look">Look</li>
+                </ul>
+            </div>
+            <ul class="nav-list">
+                <li data-category="todos">Todos</li>
+                <li data-category="cocina">Cocina</li>
+                <li data-category="hogar">Hogar</li>
+                <li data-category="deporte">Deporte</li>
+                <li data-category="musica">Música</li>
+                <li data-category="tech">Tech</li>
+                <li data-category="diversion">Diversión</li>
+                <li data-category="ropa">Ropa</li>
+                <li data-category="look">Look</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container">
+        <h2 id="category-title"></h2>
+        <div id="products-container" class="products-grid"></div>
+    </main>
+
+    <footer class="footer">
+        <p>© 2026 Kaufland. Todos los derechos reservados.</p>
+    </footer>
+
+     <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Exprimidor de jugo eléctrico Thomas 1.5 Lts",
+    "price": 10000,
+    "condition": "usado",
+    "description": "**agregar detalle**",
+    "image": "/assets/img/products/ejemplo/ejemplo-1.webp",
+    "category": "cocina"
+  },
+  {
+    "id": 2,
+    "title": "Melódica Meistehaft 37 teclas",
+    "price": 5000,
+    "condition": "usado",
+    "description": "**agregar detalle**",
+    "image": "/assets/img/products/ejemplo/ejemplo-2.webp",
+    "category": "musica"
+  },
+  {
+    "id": 3,
+    "title": "Melódica Meistehaft 37 teclas",
+    "price": 5000,
+    "condition": "usado",
+    "description": "**agregar detalle**",
+    "image": "/assets/img/products/ejemplo/ejemplo-3.webp",
+    "category": "musica"
+  },
+  {
+    "id": 4,
+    "title": "Pelota de Básquetbol talla 6",
+    "price": 4000,
+    "condition": "semi_usado",
+    "description": "**agregar detalle**",
+    "image": "/assets/img/products/ejemplo/ejemplo-4.webp",
+    "category": "deporte"
+  },
+  {
+    "id": 5,
+    "title": "Set de 4 paletas de ping pong Decathlon con **AGREGAR NRO** pelotas",
+    "price": 12000,
+    "condition": "semi_usado",
+    "description": "**agregar detalle**",
+    "image": "/assets/img/products/ejemplo/ejemplo-2.webp",
+    "category": "deporte"
+  },
+  {
+    "id": 6,
+    "title": "Set 2 raquetas de tenis Decathlon con **AGREGAR NRO** pelotas y funda",
+    "price": 15000,
+    "condition": "usado",
+    "description": "**agregar detalle**",
+    "image": "/assets/img/products/ejemplo/ejemplo-1.webp",
+    "category": "deporte"
+  },
+  {
+    "id": 7,
+    "title": "Set 2 Raquetas de tenis antiguas Spalding y **AGREGAR MARCA**",
+    "price": 4000,
+    "condition": "muy_usado",
+    "description": "**agregar detalle**",
+    "image": "/assets/img/products/ejemplo/ejemplo-4.webp",
+    "category": "deporte"
+  }
+]

@@ -1,0 +1,350 @@
+/* 1. VARIABLES */
+:root {
+    /* COLORES */
+    --color-bg: #F7F7F7;
+    --color-white: #FFFFFF;
+    --color-text: #111111;
+    --color-text-secondary: #555555;
+    --color-text-secondary-light: #5555554d;
+    --color-border: #E5E5E5;
+    --color-primary: #2B59C3;
+
+    /* TIPOGRAFÍA */
+    --font-family: 'Inter', sans-serif;
+
+    --size-mini: 0.125rem; /* 2px */
+    --size-xsmall: 0.25rem; /* 4px */
+    --size-small: 0.5rem; /* 8px */
+    --size-regular: 0.75rem; /* 12px */
+    --size-medium: 1rem; /* 16px */
+    --size-large: 1.5rem; /* 24px */
+    --size-xlarge: 2rem; /* 32px */
+
+    --font-weight-bold: 600;
+    --font-weight-bolder: 700;
+}
+
+/* 2. RESET */
+
+html {
+  font-size: 16px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 3. BASE */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: var(--font-family);
+    background-color: var(--color-bg);
+    color: var(--color-text);
+}
+
+/* 4. LAYOUT */
+/* -----NAVBAR */
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--size-medium) var(--size-large);
+    background: var(--color-white);
+    font-size: var(--size-medium);
+    border-bottom: var(--size-mini) solid var(--color-border);
+    padding: var(--size-medium);
+    font-weight: var(--font-weight-bold);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.menu-toggle {
+    display: none;
+    font-size: var(--size-xlarge);
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-weight: var(--font-weight-bold);
+    padding: 0.2rem;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.4);
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.3s;
+    z-index: 5;
+}
+
+.overlay.active {
+    opacity: 1;
+    pointer-events: all;
+}
+
+.side-menu {
+    position: fixed;
+    top: 0;
+    left: -260px;
+    width: 260px;
+    height: 100%;
+    background: white;
+    list-style: none;
+    padding: 1rem;
+    margin: 0;
+    transition: 0.3s;
+    z-index: 10;
+}
+
+.side-menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.side-menu li {
+    padding: 1rem;
+    border-radius: var(--size-small);
+    font-size: var(--size-medium);
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.side-menu li:active {
+    transform: scale(0.98);
+}
+
+.side-menu li + li {
+    margin-top: 0.5rem;
+}
+
+.side-menu li:hover {
+    background: var(--color-bg);
+}
+
+.side-menu.active {
+    left: 0;
+}
+
+.close-menu {
+    font-size: 1.5rem;
+    background: var(--color-bg);
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: var(--font-weight-bold);
+    margin-bottom: 1rem;
+}
+
+.close-menu:hover {
+    background: var(--color-border);
+}
+
+body.menu-open {
+    overflow: hidden;
+}
+
+.nav-list {
+    display: flex;
+    gap: var(--size-xsmall);
+    align-items: center;
+    list-style: none;
+}
+
+.nav-list li {
+    cursor: pointer;
+    position: relative;
+    transition: color 0.2s;
+    padding: 0.5rem 0.8rem;
+}
+
+.nav-list li:hover {
+    color: var(--color-primary);
+}
+
+.nav-list li::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    width: 0%;
+    height: 2px;
+    background: #e8eefc;
+    transition: width 0.2s ease;
+}
+
+.nav-list li:hover::after {
+    width: 100%;
+}
+
+.active-category {
+    background: #e8eefc;
+    color: var(--color-primary);
+}
+
+/* navbar versión */
+.nav-list .active-category {
+    padding: 0.5rem 0.8rem;
+    border-radius: 2px;
+}
+
+.nav-list .active-category::after {
+    width: 100%;
+}
+
+/* TÍTULO */
+#category-title {
+    font-size: var(--size-xlarge);
+    font-weight: var(--font-weight-bolder);
+    margin-bottom: var(--size-large);
+    padding-bottom: var(--size-small);
+    border-bottom: 2px solid var(--color-border);
+}
+
+/* -----CONTENEDOR */
+.container {
+    flex: 1;
+    padding: var(--size-large);
+}
+
+/* -----GRID */
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--size-large);
+}
+
+/* 5. COMPONENTS */
+.empty-state {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--color-text-secondary);
+    font-size: var(--size-medium);
+}
+
+/* -----CARDS */
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: var(--color-white);
+    border: var(--size-mini) solid var(--color-border);
+    border-radius: var(--size-medium);
+    padding: var(--size-medium);
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  transition: 0.2s;
+}
+
+.card-image {
+    width: 100%;
+    object-fit: cover;
+    border-radius: var(--size-small);
+    margin-bottom: var(--size-medium);
+}
+
+.title {
+    font-size: var(--size-large);
+    font-weight: var(--font-weight-bold);
+    margin-bottom: var(--size-small);
+}
+
+.badge {
+    display: inline-block;
+    padding: var(--size-xsmall) var(--size-small);
+    border-radius: var(--size-small);
+    font-size: var(--size-regular);
+    font-weight: var(--font-weight-bold);
+    background-color: var(--color-text-secondary-light);
+    color: var(--color-text-secondary);
+}
+
+.card-description {
+    font-size: var(--size-medium);
+    color: var(--color-text-secondary);
+    margin: var(--size-small) 0;
+}
+
+.card-price {
+    font-size: var(--size-large);
+    font-weight: var(--font-weight-bold);
+    margin-top: auto;
+    padding: var(--size-xsmall) 0;
+}
+
+.buy-button {
+    margin-top: auto;
+    align-self: flex-end;
+    padding: var(--size-regular) var(--size-medium);
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    border: none;
+    text-align: center;
+    border-radius: var(--size-regular);
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+/* 6. FOOTER */
+.footer {
+    margin-top: var(--size-xlarge);
+    padding: var(--size-medium);
+    text-align: center;
+    font-size: var(--size-regular);
+    color: var(--color-text-secondary);
+    border-top: 1px solid var(--color-border);
+}
+
+/* 7. MEDIA QUERIES */
+@media (max-width: 1024px) {
+    .products-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    html {
+        font-size: 14px;
+    }
+    .products-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .nav-list {
+        display: none;
+    }
+    .menu-toggle {
+        display: block;
+    }
+}
+
+@media (max-width: 480px) {
+    .products-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+
+
+
+
+
+
+
