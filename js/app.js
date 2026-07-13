@@ -61,12 +61,10 @@ function setActiveCategory(category) {
 
 function formatCondition(condition) {
     const conditions = {
-        "nuevo": "Nuevo",
-        "como_nuevo": "Como nuevo",
-        "semi_usado": "Semi usado",
-        "usado": "Usado",
-        "muy_usado": "Muy usado",
-        "para_reparar": "Para reparar",
+        "1": "Nuevo",
+        "2": "Como nuevo",
+        "3": "Buen estado",
+        "4": "Aceptable",
     };
 
     return conditions[condition] || condition;
@@ -74,61 +72,206 @@ function formatCondition(condition) {
 
 function createWhatsappLink(product) {
     const phone = 56978479894;
-    const message = `Hola, me interesa comprar el artículo ${product.title} ${formatPrice(product.price)}`;
+    const message = `Hola, me interesa comprar el artículo [${product.id}] ${product.title} ${formatPrice(product.price)}`;
     const encodedMessage = encodeURIComponent(message);
     return `https://wa.me/${phone}?text=${encodedMessage}`;
 }
 
 function createProductCard(product) {
+
+    const images = product.images || [product.image];
+    const total = images.length;
+
     return `
-        <div class="card">
-            <img src="${product.image}" alt="${product.title}" class="card-image"/>
+        <div class="card" data-images='${JSON.stringify(images)}' data-index="0">
+
+            <div class="card-image-container">
+                <img 
+                    src="${images[0]}" 
+                    class="card-image" 
+                    loading="lazy"
+                    style="opacity:0;"
+                />
+            </div>
+
+            <div class="image-controls">
+                <button class="nav-btn prev">🡰</button>
+
+                <div class="dots">
+                    ${createDots(total)}
+                </div>
+
+                <button class="nav-btn next">🡲</button>
+            </div>
+
             <h3 class="title">${product.title}</h3>
-            <span class="badge">${formatCondition(product.condition)}</span>
+            <span class="badge badge-${product.condition}">${formatCondition(product.condition)}</span>
             <p class="card-description">${product.description}</p>
             <p class="card-price">${formatPrice(product.price)}</p>
+
             <a href="${createWhatsappLink(product)}" target="_blank" class="buy-button">
                 Comprar
             </a>
         </div>
-    `
+    `;
+}
+
+function createDots(total) {
+    let dots = '';
+
+    for (let i = 0; i < total; i++) {
+        dots += `<span class="dot ${i === 0 ? 'active' : ''}"></span>`;
+    }
+
+    return dots;
 }
 
 const categoryNames = {
     todos: "Todos los productos",
-    cocina: "Cocina",
-    hogar: "Hogar",
-    deporte: "Deporte",
-    musica: "Música",
-    tech: "Tech",
-    diversion: "Diversión",
-    ropa: "Ropa",
-    look: "Look"
+    cc: "Cocina",
+    hg: "Hogar",
+    dp: "Deporte",
+    ms: "Música",
+    tc: "Tech",
+    dv: "Diversión",
+    rp: "Ropa",
+    lk: "Look"
 };
 
 function updateCategoryTitle(category) {
     const title = categoryNames[category] || category;
-    document.getElementById('category-title').textContent = title;
+
+    const count = category === "todos"
+        ? products.length
+        : products.filter(p => p.category === category).length;
+
+    document.getElementById('category-title').textContent = `${title} (${count})`;
 }
 
 function filterProducts(category) {
-    const filtered = category === "todos"
-        ? products
-        : products.filter(p => p.category === category);
 
     const container = document.getElementById('products-container');
 
-    if (filtered.length === 0) {
-        container.innerHTML = `
-            <div class="empty-state">
-                <p>No hay productos en esta categoría.</p>
-            </div>
-        `;
-        return;
-    }
+    container.classList.add('fade-out');
 
-    const html = filtered.map(product => createProductCard(product)).join('');
-    container.innerHTML = html;
+    setTimeout(() => {
+
+        const filtered = category === "todos"
+            ? products
+            : products.filter(p => p.category === category);
+
+        if (filtered.length === 0) {
+            container.innerHTML = `
+                <div class="empty-state">
+                    <p>No hay productos en esta categoría.</p>
+                </div>
+            `;
+        } else {
+            const html = filtered.map(product => createProductCard(product)).join('');
+            container.innerHTML = html;
+        }
+
+        container.classList.remove('fade-out');
+        container.classList.add('fade-in');
+
+        requestAnimationFrame(() => {
+            window.scrollTo({
+                top: 0,
+                behavior: "instant"
+            });
+        });
+
+        setTimeout(() => {
+            container.classList.remove('fade-in');
+        }, 250);
+
+        setTimeout(initImageControls, 0);
+
+    }, 200);
+}
+
+function initImageControls() {
+
+    document.querySelectorAll('.card').forEach(card => {
+
+        const images = JSON.parse(card.dataset.images);
+        let index = 0;
+
+        const img = card.querySelector('.card-image');
+
+        img.onload = () => {
+            img.style.opacity = "1";
+        };
+
+        img.onerror = () => {
+            img.onerror = null; // evita loop
+            img.src = "assets/img/placeholder.webp";
+        };
+
+        const prev = card.querySelector('.prev');
+        const next = card.querySelector('.next');
+        const dots = card.querySelectorAll('.dot');
+
+        let startX = 0;
+
+        function update() {
+            img.style.opacity = "0";
+
+            img.classList.add('fade-out');
+
+            setTimeout(() => {
+                img.src = images[index];
+
+                img.classList.remove('fade-out');
+                img.classList.add('fade-in');
+
+                setTimeout(() => {
+                    img.classList.remove('fade-in');
+                }, 250);
+
+            }, 150);
+
+            dots.forEach(d => d.classList.remove('active'));
+            if (dots[index]) dots[index].classList.add('active');
+
+            prev.disabled = index === 0;
+            next.disabled = index === images.length - 1;
+        }
+
+        prev.addEventListener('click', () => {
+            if (index > 0) {
+                index--;
+                update();
+            }
+        });
+
+        next.addEventListener('click', () => {
+            if (index < images.length - 1) {
+                index++;
+                update();
+            }
+        });
+
+        img.addEventListener('touchstart', (e) => {
+            startX = e.touches[0].clientX;
+        });
+
+        img.addEventListener('touchend', (e) => {
+            let endX = e.changedTouches[0].clientX;
+
+            if (startX - endX > 50 && index < images.length - 1) {
+                index++;
+                update();
+            }
+
+            if (endX - startX > 50 && index > 0) {
+                index--;
+                update();
+            }
+        });
+
+        update();
+    });
 }
 
 let products = [];

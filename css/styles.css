@@ -19,6 +19,8 @@
     --size-medium: 1rem; /* 16px */
     --size-large: 1.5rem; /* 24px */
     --size-xlarge: 2rem; /* 32px */
+    --size-jumbo: 2.75rem; /* 44px */
+
 
     --font-weight-bold: 600;
     --font-weight-bolder: 700;
@@ -52,7 +54,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: var(--size-medium) var(--size-large);
     background: var(--color-white);
     font-size: var(--size-medium);
     border-bottom: var(--size-mini) solid var(--color-border);
@@ -198,7 +199,7 @@ body.menu-open {
 /* navbar versión */
 .nav-list .active-category {
     padding: 0.5rem 0.8rem;
-    border-radius: 2px;
+    border-radius: var(--size-mini);
 }
 
 .nav-list .active-category::after {
@@ -211,20 +212,29 @@ body.menu-open {
     font-weight: var(--font-weight-bolder);
     margin-bottom: var(--size-large);
     padding-bottom: var(--size-small);
-    border-bottom: 2px solid var(--color-border);
+    border-bottom: var(--size-mini) solid var(--color-border);
 }
 
 /* -----CONTENEDOR */
 .container {
     flex: 1;
-    padding: var(--size-large);
+    padding: var(--size-medium);
 }
 
 /* -----GRID */
 .products-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: var(--size-large);
+    gap: var(--size-small);
+    transition: opacity 0.25s ease;
+}
+
+.products-grid.fade-out {
+    opacity: 0;
+}
+
+.products-grid.fade-in {
+    opacity: 1;
 }
 
 /* 5. COMPONENTS */
@@ -240,6 +250,7 @@ body.menu-open {
 .card {
     display: flex;
     flex-direction: column;
+    height: 100%;
     align-items: flex-start;
     background-color: var(--color-white);
     border: var(--size-mini) solid var(--color-border);
@@ -254,9 +265,30 @@ body.menu-open {
 
 .card-image {
     width: 100%;
+    height: 100%;
     object-fit: cover;
+    display: block;
     border-radius: var(--size-small);
-    margin-bottom: var(--size-medium);
+    opacity: 0;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.card-image-container {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    background: #f2f2f2;
+    border-radius: var(--size-small);
+    overflow: hidden;
+}
+
+.card-image.fade-out {
+    opacity: 0;
+    transform: scale(0.97);
+}
+
+.card-image.fade-in {
+    opacity: 1;
+    transform: scale(1);
 }
 
 .title {
@@ -268,11 +300,36 @@ body.menu-open {
 .badge {
     display: inline-block;
     padding: var(--size-xsmall) var(--size-small);
+    border: var(--size-mini) solid transparent;
     border-radius: var(--size-small);
     font-size: var(--size-regular);
     font-weight: var(--font-weight-bold);
     background-color: var(--color-text-secondary-light);
     color: var(--color-text-secondary);
+}
+
+.badge-1 {
+    background-color: #e6f7ec;
+    color: #1a7f37;
+    border-color: #1a7f3733;
+}
+
+.badge-2 {
+    background-color: #e8f0fe;
+    color: #1a73e8;
+    border-color: #1a73e833;
+}
+
+.badge-3 {
+    background-color: #fff7e6;
+    color: #b26a00;
+    border-color: #b26a0033;
+}
+
+.badge-4 {
+    background-color: #f5f5f5;
+    color: #5f6368;
+    border-color: #5f636833;
 }
 
 .card-description {
@@ -300,6 +357,70 @@ body.menu-open {
     text-decoration: none;
     cursor: pointer;
     font-weight: 600;
+    transition: opacity 0.2s ease;
+}
+
+.buy-button:hover {
+  opacity: 0.9;
+}
+
+.buy-button:active {
+  transform: scale(0.97);
+}
+
+/* FEATURE: USER CAN SEE ALL IMAGES PER PRODUCT */
+.image-controls {
+    display: grid;
+    width: 100%;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    margin-top: var(--size-small);
+    margin-bottom: var(--size-regular);
+}
+
+.nav-btn {
+    width: var(--size-xlarge);
+    height: var(--size-xlarge);
+    border-radius: 50%;
+    border: none;
+    background: rgba(0,0,0,0.6);
+    color: white;
+    font-size: var(--size-medium);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.15s ease, background 0.2s;
+}
+
+.nav-btn:hover {
+    background: rgba(0,0,0,0.8);
+    transform: scale(1.15);
+}
+
+.nav-btn:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
+.dots {
+    display: flex;
+    justify-content: center;
+    gap: var(--size-xsmall);
+}
+
+.dot {
+    width: var(--size-xsmall);
+    height: var(--size-xsmall);
+    background: #ccc;
+    border-radius: 50%;
+
+    transition: transform 0.2s ease, background 0.2s;
+}
+
+.dot.active {
+    background: var(--color-primary);
+    transform: scale(1.4);
 }
 
 /* 6. FOOTER */
@@ -309,7 +430,7 @@ body.menu-open {
     text-align: center;
     font-size: var(--size-regular);
     color: var(--color-text-secondary);
-    border-top: 1px solid var(--color-border);
+    border-top: var(--size-mini) solid var(--color-border);
 }
 
 /* 7. MEDIA QUERIES */

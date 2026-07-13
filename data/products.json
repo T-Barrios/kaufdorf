@@ -1,65 +1,1939 @@
 [
   {
-    "id": 1,
-    "title": "Exprimidor de jugo eléctrico Thomas 1.5 Lts",
+    "id": "ZCC001",
+    "title": "Licuadora Oster Xpert BLST3B-CAG con Todos sus Accesorios Originales",
+    "price": 80000,
+    "condition": "3",
+    "description": "Licuadora de alto rendimiento (hasta ~1100W) con vaso de 2 L en Tritan, cuchilla reforzada y accesorios (Blend-N-Go y mini vaso). Ideal para smoothies, hielo y uso intensivo. (Oster Latino)",
+    "images": [
+      "/assets/img/products/ZCC001/ZCC001-01.webp",
+      "/assets/img/products/ZCC001/ZCC001-02.webp",
+      "/assets/img/products/ZCC001/ZCC001-03.webp",
+      "/assets/img/products/ZCC001/ZCC001-04.webp",
+      "/assets/img/products/ZCC001/ZCC001-05.webp",
+      "/assets/img/products/ZCC001/ZCC001-06.webp",
+      "/assets/img/products/ZCC001/ZCC001-07.webp"
+    ],
+    "category": "cc"
+  },
+  {
+    "id": "ZCC002",
+    "title": "Cafetera Espresso Krups Virtuoso Pump & Steam",
+    "price": 75000,
+    "condition": "2",
+    "description": "Cafetera espresso con bomba de presión (~15 bar) y vaporizador. Permite preparar espresso intenso y espumar leche para cappuccino o latte.",
+    "images": [
+      "/assets/img/products/ZCC002/ZCC002-01.webp",
+      "/assets/img/products/ZCC002/ZCC002-02.webp",
+      "/assets/img/products/ZCC002/ZCC002-03.webp",
+      "/assets/img/products/ZCC002/ZCC002-04.webp",
+      "/assets/img/products/ZCC002/ZCC002-05.webp"
+    ],
+    "category": "cc"
+  },
+  {
+    "id": "ZCC005",
+    "title": "Picadora 123 Moulinex XL",
+    "price": 35000,
+    "condition": "3",
+    "description": "Picadora eléctrica compacta con sistema de presión. Ideal para picar verduras, carne, frutos secos y preparaciones rápidas en segundos.",
+    "images": [
+      "/assets/img/products/ZCC005/ZCC005-01.webp",
+      "/assets/img/products/ZCC005/ZCC005-02.webp",
+      "/assets/img/products/ZCC005/ZCC005-03.webp",
+      "/assets/img/products/ZCC005/ZCC005-04.webp"
+    ],
+    "category": "cc"
+  },
+  {
+    "id": "ZCC006",
+    "title": "Encimera de Inducción Portátil 1 Zona Ikea Tillreda",
+    "price": 25000,
+    "condition": "3",
+    "description": "Placa portátil de inducción de 1 zona. Calienta rápido, eficiente y segura (solo funciona con ollas compatibles). Ideal para espacios pequeños o uso móvil.",
+    "images": [
+      "/assets/img/products/ZCC006/ZCC006-01.webp"
+    ],
+    "category": "cc"
+  },
+  {
+    "id": "ZCC007",
+    "title": "Tostador Eléctrico Thomas TH-120R 800 watts 6 Niveles de Tostado",
     "price": 10000,
-    "condition": "usado",
-    "description": "**agregar detalle**",
-    "image": "/assets/img/products/ejemplo/ejemplo-1.webp",
-    "category": "cocina"
+    "condition": "3",
+    "description": "Tostador de 800 watts con 6 niveles de tostado. Permite controlar el dorado y lograr tostadas uniformes fácilmente.",
+    "images": [
+      "/assets/img/products/ZCC007/ZCC007-01.webp",
+      "/assets/img/products/ZCC007/ZCC007-02.webp",
+      "/assets/img/products/ZCC007/ZCC007-03.webp",
+      "/assets/img/products/ZCC007/ZCC007-04.webp",
+      "/assets/img/products/ZCC007/ZCC007-05.webp",
+      "/assets/img/products/ZCC007/ZCC007-06.webp",
+      "/assets/img/products/ZCC007/ZCC007-07.webp",
+      "/assets/img/products/ZCC007/ZCC007-08.webp"
+    ],
+    "category": "cc"
   },
   {
-    "id": 2,
-    "title": "Melódica Meistehaft 37 teclas",
+    "id": "ZCC008",
+    "title": "Exprimidor de Jugo Eléctrico 1.2 litros 40 watts Ursus Trotter UT-WETZEL40",
+    "price": 10000,
+    "condition": "3",
+    "description": "Exprimidor eléctrico de 40 watts con jarra de 1.2 L. Ideal para jugos de cítricos con rotación automática y uso simple.",
+    "images": [
+      "/assets/img/products/ZCC008/ZCC008-01.webp",
+      "/assets/img/products/ZCC008/ZCC008-02.webp",
+      "/assets/img/products/ZCC008/ZCC008-03.webp",
+      "/assets/img/products/ZCC008/ZCC008-04.webp"
+    ],
+    "category": "cc"
+  },
+  {
+    "id": "ZCC009",
+    "title": "Licuadora Personal Mini Blender Blanik Bmb044 Color Verde",
+    "price": 10000,
+    "condition": "3",
+    "description": "Licuadora personal compacta. Mezcla directo en vaso portátil, ideal para smoothies y consumo individual diario.",
+    "images": [
+      "/assets/img/products/ZCC009/ZCC009-01.webp",
+      "/assets/img/products/ZCC009/ZCC009-02.webp"
+    ],
+    "category": "cc"
+  },
+  {
+    "id": "ZCC011",
+    "title": "Taza de Loza con Tapa y Cuchara de Metal",
     "price": 5000,
-    "condition": "usado",
-    "description": "**agregar detalle**",
-    "image": "/assets/img/products/ejemplo/ejemplo-2.webp",
-    "category": "musica"
+    "condition": "1",
+    "description": "Taza de loza con tapa y cuchara metálica. Mantiene temperatura y facilita consumo de bebidas calientes o preparaciones.",
+    "images": [
+      "/assets/img/products/ZCC011/ZCC011-01.webp",
+      "/assets/img/products/ZCC011/ZCC011-02.webp",
+      "/assets/img/products/ZCC011/ZCC011-03.webp",
+      "/assets/img/products/ZCC011/ZCC011-04.webp"
+    ],
+    "category": "cc"
   },
   {
-    "id": 3,
-    "title": "Melódica Meistehaft 37 teclas",
+    "id": "ZCC012",
+    "title": "Pesa de Cocina Moulinex",
     "price": 5000,
-    "condition": "usado",
-    "description": "**agregar detalle**",
-    "image": "/assets/img/products/ejemplo/ejemplo-3.webp",
-    "category": "musica"
+    "condition": "3",
+    "description": "Balanza digital precisa. Permite medir ingredientes con exactitud para recetas y control de porciones.",
+    "images": [
+      "/assets/img/products/ZCC012/ZCC012-01.webp",
+      "/assets/img/products/ZCC012/ZCC012-02.webp",
+      "/assets/img/products/ZCC012/ZCC012-03.webp",
+      "/assets/img/products/ZCC012/ZCC012-04.webp",
+      "/assets/img/products/ZCC012/ZCC012-05.webp"
+    ],
+    "category": "cc"
   },
   {
-    "id": 4,
-    "title": "Pelota de Básquetbol talla 6",
-    "price": 4000,
-    "condition": "semi_usado",
-    "description": "**agregar detalle**",
-    "image": "/assets/img/products/ejemplo/ejemplo-4.webp",
-    "category": "deporte"
+    "id": "ZCC013",
+    "title": "Pocillo Tipo Bento de 3 Pisos con Palillos",
+    "price": 3000,
+    "condition": "2",
+    "description": "Contenedor de 3 niveles con palillos. Permite transportar comidas separadas y organizadas.",
+    "images": [
+      "/assets/img/products/ZCC013/ZCC013-01.webp",
+      "/assets/img/products/ZCC013/ZCC013-02.webp",
+      "/assets/img/products/ZCC013/ZCC013-03.webp",
+      "/assets/img/products/ZCC013/ZCC013-04.webp",
+      "/assets/img/products/ZCC013/ZCC013-05.webp"
+    ],
+    "category": "cc"
   },
   {
-    "id": 5,
-    "title": "Set de 4 paletas de ping pong Decathlon con **AGREGAR NRO** pelotas",
-    "price": 12000,
-    "condition": "semi_usado",
-    "description": "**agregar detalle**",
-    "image": "/assets/img/products/ejemplo/ejemplo-2.webp",
-    "category": "deporte"
+    "id": "ZDP001",
+    "title": "Rodilleras 187 Killer Pads Pro Knee (Talla M) + Coderas Killer Pads Slim Elbow (Talla M)",
+    "price": 80000,
+    "condition": "2",
+    "description": "Protección profesional para skate y deportes urbanos. Rodilleras Pro con alta absorción de impacto y coderas Slim más ligeras para movilidad y comodidad.",
+    "images": [
+      "/assets/img/products/ZDP001/ZDP001-01.webp",
+      "/assets/img/products/ZDP001/ZDP001-02.webp",
+      "/assets/img/products/ZDP001/ZDP001-03.webp",
+      "/assets/img/products/ZDP001/ZDP001-04.webp",
+      "/assets/img/products/ZDP001/ZDP001-05.webp",
+      "/assets/img/products/ZDP001/ZDP001-06.webp",
+      "/assets/img/products/ZDP001/ZDP001-07.webp"
+    ],
+    "category": "dp"
   },
   {
-    "id": 6,
-    "title": "Set 2 raquetas de tenis Decathlon con **AGREGAR NRO** pelotas y funda",
+    "id": "ZDP002",
+    "title": "Rodillo de Entrenamiento para Bicicletas de 26\" a 29\" + Neumático 700 x 25 + Protector de Sudor",
+    "price": 80000,
+    "condition": "3",
+    "description": "Rodillo indoor compatible con bicicletas 26” a 29” y ruta (700c). Incluye neumático específico y protector de sudor. Ideal para entrenar en casa.",
+    "images": [
+      "/assets/img/products/ZDP002/ZDP002-01.webp",
+      "/assets/img/products/ZDP002/ZDP002-02.webp",
+      "/assets/img/products/ZDP002/ZDP002-03.webp",
+      "/assets/img/products/ZDP002/ZDP002-04.webp",
+      "/assets/img/products/ZDP002/ZDP002-05.webp",
+      "/assets/img/products/ZDP002/ZDP002-06.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP003",
+    "title": "Set de Discos y Mancuernas 65 kilos en Total (20 Discos de Hierro: 37 kilos | 12 Discos Cementados: 19 kilos | 6 Mancuernas: 9 kilos)",
+    "price": 75000,
+    "condition": "3",
+    "description": "Set completo de pesas (65 kilos en total). Incluye discos de hierro y cementados más mancuernas. Ideal para entrenamiento de fuerza en casa.",
+    "images": [
+      "/assets/img/products/ZDP003/ZDP003-01.webp",
+      "/assets/img/products/ZDP003/ZDP003-02.webp",
+      "/assets/img/products/ZDP003/ZDP003-03.webp",
+      "/assets/img/products/ZDP003/ZDP003-04.webp",
+      "/assets/img/products/ZDP003/ZDP003-05.webp",
+      "/assets/img/products/ZDP003/ZDP003-06.webp",
+      "/assets/img/products/ZDP003/ZDP003-07.webp",
+      "/assets/img/products/ZDP003/ZDP003-08.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP008",
+    "title": "Arco Recurvo Initech con Cuerda + 3 Flechas",
+    "price": 50000,
+    "condition": "2",
+    "description": "Arco recurvo tradicional con cuerda y 3 flechas. Ideal para iniciación en tiro con arco y práctica recreativa.",
+    "images": [
+      "/assets/img/products/ZDP008/ZDP008-01.webp",
+      "/assets/img/products/ZDP008/ZDP008-02.webp",
+      "/assets/img/products/ZDP008/ZDP008-03.webp",
+      "/assets/img/products/ZDP008/ZDP008-04.webp",
+      "/assets/img/products/ZDP008/ZDP008-05.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP013",
+    "title": "Pull Up Bar 500 Decathlon con Set de 5 Bandas Elásticas de Distintos Grosores",
     "price": 15000,
-    "condition": "usado",
-    "description": "**agregar detalle**",
-    "image": "/assets/img/products/ejemplo/ejemplo-1.webp",
-    "category": "deporte"
+    "condition": "3",
+    "description": "Barra de dominadas resistente con set de 5 bandas elásticas de distintos niveles. Perfecto para entrenamiento funcional y progresión en fuerza.",
+    "images": [
+      "/assets/img/products/ZDP013/ZDP013-01.webp",
+      "/assets/img/products/ZDP013/ZDP013-02.webp",
+      "/assets/img/products/ZDP013/ZDP013-03.webp",
+      "/assets/img/products/ZDP013/ZDP013-04.webp",
+      "/assets/img/products/ZDP013/ZDP013-05.webp",
+      "/assets/img/products/ZDP013/ZDP013-06.webp",
+      "/assets/img/products/ZDP013/ZDP013-07.webp",
+      "/assets/img/products/ZDP013/ZDP013-08.webp",
+      "/assets/img/products/ZDP013/ZDP013-09.webp"
+    ],
+    "category": "dp"
   },
   {
-    "id": 7,
-    "title": "Set 2 Raquetas de tenis antiguas Spalding y **AGREGAR MARCA**",
+    "id": "ZDP014",
+    "title": "Bosu Ball con 2 Pelotas de Yoga",
+    "price": 15000,
+    "condition": "2",
+    "description": "Plataforma de equilibrio tipo Bosu para core y estabilidad. Incluye pelotas de yoga para complementar rutinas de fuerza y movilidad.",
+    "images": [
+      "/assets/img/products/ZDP014/ZDP014-01.webp",
+      "/assets/img/products/ZDP014/ZDP014-02.webp",
+      "/assets/img/products/ZDP014/ZDP014-03.webp",
+      "/assets/img/products/ZDP014/ZDP014-04.webp",
+      "/assets/img/products/ZDP014/ZDP014-05.webp",
+      "/assets/img/products/ZDP014/ZDP014-06.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP016",
+    "title": "2 Raquetas de Tenis + Funda + 4 Pelotas + 2 Antivibradores",
+    "price": 15000,
+    "condition": "2",
+    "description": "Set de 2 raquetas con funda y 4 pelotas. Ideal para juego recreativo o iniciación en tenis.",
+    "images": [
+      "/assets/img/products/ZDP016/ZDP016-01.webp",
+      "/assets/img/products/ZDP016/ZDP016-02.webp",
+      "/assets/img/products/ZDP016/ZDP016-03.webp",
+      "/assets/img/products/ZDP016/ZDP016-04.webp",
+      "/assets/img/products/ZDP016/ZDP016-05.webp",
+      "/assets/img/products/ZDP016/ZDP016-06.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP017",
+    "title": "Palo de Golf con 4 Pelotas",
+    "price": 10000,
+    "condition": "3",
+    "description": "Palo de golf con 4 pelotas. Perfecto para práctica básica o recreativa.",
+    "images": [
+      "/assets/img/products/ZDP017/ZDP017-01.webp",
+      "/assets/img/products/ZDP017/ZDP017-02.webp",
+      "/assets/img/products/ZDP017/ZDP017-03.webp",
+      "/assets/img/products/ZDP017/ZDP017-04.webp",
+      "/assets/img/products/ZDP017/ZDP017-05.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP018",
+    "title": "Limpiador de Bicicleta Muc-Off (Nuevo Sin Abrir)",
+    "price": 10000,
+    "condition": "1",
+    "description": "Limpiador especializado para bicicletas, elimina suciedad sin dañar componentes. Producto nuevo sin abrir. Ideal para mantenimiento.",
+    "images": [
+      "/assets/img/products/ZDP018/ZDP018-01.webp",
+      "/assets/img/products/ZDP018/ZDP018-02.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP019",
+    "title": "2 Pares de Vendas de Box 3 metros Aibeijian",
+    "price": 10000,
+    "condition": "1",
+    "description": "Vendas de 3 metros para protección de manos y muñecas. Ayudan a estabilizar la articulación y absorber impacto dentro del guante. Cierre con velcro.",
+    "images": [
+      "/assets/img/products/ZDP019/ZDP019-01.webp",
+      "/assets/img/products/ZDP019/ZDP019-02.webp",
+      "/assets/img/products/ZDP019/ZDP019-03.webp",
+      "/assets/img/products/ZDP019/ZDP019-04.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP020",
+    "title": "Anillas de Calistenia / Gimnasia",
+    "price": 10000,
+    "condition": "2",
+    "description": "Anillas de entrenamiento con correas ajustables. Permiten trabajar fuerza funcional (dominadas, fondos, core) con alta activación muscular y control corporal.",
+    "images": [
+      "/assets/img/products/ZDP020/ZDP020-01.webp",
+      "/assets/img/products/ZDP020/ZDP020-02.webp",
+      "/assets/img/products/ZDP020/ZDP020-03.webp",
+      "/assets/img/products/ZDP020/ZDP020-04.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP021",
+    "title": "4 Paletas de Ping Pong con 9 Pelotas",
+    "price": 10000,
+    "condition": "2",
+    "description": "Set de 4 paletas con revestimiento de goma y 9 pelotas. Proporcionan control y velocidad balanceada para juego recreativo.",
+    "images": [
+      "/assets/img/products/ZDP021/ZDP021-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP022",
+    "title": "3 Fundas Impermeables Anti-Polvo para Bicicleta o Moto",
+    "price": 10000,
+    "condition": "2",
+    "description": "Cubiertas protectoras contra lluvia, polvo y sol. Ayudan a preservar componentes y pintura en exteriores. Material liviano y fácil de instalar.",
+    "images": [
+      "/assets/img/products/ZDP022/ZDP022-01.webp",
+      "/assets/img/products/ZDP022/ZDP022-02.webp",
+      "/assets/img/products/ZDP022/ZDP022-03.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP023",
+    "title": "Limpia Lijas de Skate Shake Junt",
+    "price": 8000,
+    "condition": "1",
+    "description": "Bloque de goma diseñado para limpiar grip tape. Remueve polvo y suciedad, recuperando adherencia sin dañar la lija.",
+    "images": [
+      "/assets/img/products/ZDP023/ZDP023-01.webp",
+      "/assets/img/products/ZDP023/ZDP023-02.webp",
+      "/assets/img/products/ZDP023/ZDP023-03.webp",
+      "/assets/img/products/ZDP023/ZDP023-04.webp",
+      "/assets/img/products/ZDP023/ZDP023-05.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP024",
+    "title": "1 Porta Botella + 2 Botellas 650 ml para Bicicleta Decathlon",
+    "price": 8000,
+    "condition": "3",
+    "description": "Porta caramayola con 2 botellas de 650 ml. Ajuste estándar para bicicletas, permite hidratación rápida durante el pedaleo.",
+    "images": [
+      "/assets/img/products/ZDP024/ZDP024-01.webp",
+      "/assets/img/products/ZDP024/ZDP024-02.webp",
+      "/assets/img/products/ZDP024/ZDP024-03.webp",
+      "/assets/img/products/ZDP024/ZDP024-04.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP025",
+    "title": "Silicona Muc-Off Silicon Shine 500 ml (Se Usó 1 Vez)",
+    "price": 8000,
+    "condition": "3",
+    "description": "Spray de silicona que protege y da brillo a partes de la bicicleta. Reduce acumulación de suciedad y deja acabado seco. Uso mínimo (prácticamente nuevo).",
+    "images": [
+      "/assets/img/products/ZDP025/ZDP025-01.webp",
+      "/assets/img/products/ZDP025/ZDP025-02.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP026",
+    "title": "Limpiador y Desengrasante de Cadenas para Bicicletas WD-40 (Nunca Se Usó)",
+    "price": 7000,
+    "condition": "1",
+    "description": "Desengrasante específico para transmisiones. Disuelve grasa y suciedad sin dañar componentes. Producto sin uso.",
+    "images": [
+      "/assets/img/products/ZDP026/ZDP026-01.webp",
+      "/assets/img/products/ZDP026/ZDP026-02.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP027",
+    "title": "2 Cámaras de Bicicleta 27.5\" Schrader 48 mm 1.9\"-2.5\" Decathlon (Nuevas Sin Abrir)",
+    "price": 6000,
+    "condition": "1",
+    "description": "Cámaras para ruedas 27.5”, válvula Schrader 48 mm. Compatibles con cubiertas 1.9”-2.5”. Nuevas, sin abrir.",
+    "images": [
+      "/assets/img/products/ZDP027/ZDP027-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP029",
+    "title": "Karate Kimono Blanco con Cinturón Blanco",
+    "price": 5000,
+    "condition": "4",
+    "description": "Uniforme de karate (gi) en color blanco. Incluye cinturón blanco. Tela resistente para entrenamiento, permite libertad de movimiento. La parte superior tiene desgaste visible en el cuello.",
+    "images": [
+      "/assets/img/products/ZDP029/ZDP029-01.webp",
+      "/assets/img/products/ZDP029/ZDP029-02.webp",
+      "/assets/img/products/ZDP029/ZDP029-03.webp",
+      "/assets/img/products/ZDP029/ZDP029-04.webp",
+      "/assets/img/products/ZDP029/ZDP029-05.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP030",
+    "title": "Disco de Equilibrio de Madera",
+    "price": 5000,
+    "condition": "3",
+    "description": "Plataforma de balance para entrenamiento de estabilidad y coordinación. Activa core y mejora control corporal. Base de madera resistente.",
+    "images": [
+      "/assets/img/products/ZDP030/ZDP030-01.webp",
+      "/assets/img/products/ZDP030/ZDP030-02.webp",
+      "/assets/img/products/ZDP030/ZDP030-03.webp",
+      "/assets/img/products/ZDP030/ZDP030-04.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP031",
+    "title": "Lubricante de Cadenas de Bicicleta WD-40 Dry 118 ml (Nunca Se Usó)",
+    "price": 5000,
+    "condition": "1",
+    "description": "Lubricante seco para cadenas de bicicleta. Reduce fricción sin atraer polvo, recomendado para condiciones secas. Nunca usado.",
+    "images": [
+      "/assets/img/products/ZDP031/ZDP031-01.webp",
+      "/assets/img/products/ZDP031/ZDP031-02.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP032",
+    "title": "Rueda para Abdominales + Barra Para Push Ups + Pelota de Entrenamiento de Box Para Reflejos",
+    "price": 5000,
+    "condition": "2",
+    "description": "Kit funcional que incluye rueda abdominal, barras para flexiones y pelota de reflejos. Permite trabajar core, tren superior y coordinación.",
+    "images": [
+      "/assets/img/products/ZDP032/ZDP032-01.webp",
+      "/assets/img/products/ZDP032/ZDP032-02.webp",
+      "/assets/img/products/ZDP032/ZDP032-03.webp",
+      "/assets/img/products/ZDP032/ZDP032-04.webp",
+      "/assets/img/products/ZDP032/ZDP032-05.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP033",
+    "title": "Set de 9 Bandas Elásticas de Resistencia (1 de Tela y Las Demás de Látex de Goma)",
+    "price": 5000,
+    "condition": "3",
+    "description": "Bandas elásticas de distintos niveles: incluye 1 banda de tela y varias de látex. Permiten progresión en fuerza, activación muscular y movilidad.",
+    "images": [
+      "/assets/img/products/ZDP033/ZDP033-01.webp",
+      "/assets/img/products/ZDP033/ZDP033-02.webp",
+      "/assets/img/products/ZDP033/ZDP033-03.webp",
+      "/assets/img/products/ZDP033/ZDP033-04.webp",
+      "/assets/img/products/ZDP033/ZDP033-05.webp",
+      "/assets/img/products/ZDP033/ZDP033-06.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP034",
+    "title": "2 Luz y Timbre para Bicicleta Recargable en Forma de Cerdo Celeste y Negro",
+    "price": 5000,
+    "condition": "2",
+    "description": "Set de luz y timbre recargable con diseño compacto. Mejora visibilidad y seguridad al circular. Formato llamativo tipo figura.",
+    "images": [
+      "/assets/img/products/ZDP034/ZDP034-01.webp",
+      "/assets/img/products/ZDP034/ZDP034-02.webp",
+      "/assets/img/products/ZDP034/ZDP034-03.webp",
+      "/assets/img/products/ZDP034/ZDP034-04.webp",
+      "/assets/img/products/ZDP034/ZDP034-05.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP037",
+    "title": "Caliper Adipómetro Medidor de Grasa Corporal",
     "price": 4000,
-    "condition": "muy_usado",
-    "description": "**agregar detalle**",
-    "image": "/assets/img/products/ejemplo/ejemplo-4.webp",
-    "category": "deporte"
+    "condition": "1",
+    "description": "Medidor manual de pliegues cutáneos. Permite estimar porcentaje de grasa corporal mediante medición directa de la piel. Compacto y fácil de usar.",
+    "images": [
+      "/assets/img/products/ZDP037/ZDP037-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP038",
+    "title": "2 Pares de Guantes para Bicicleta Decathlon Triban (Talla XS)",
+    "price": 4000,
+    "condition": "3",
+    "description": "Guantes de ciclismo con acolchado en palma para reducir vibración. Mejoran agarre y comodidad en rutas largas. Talla XS.",
+    "images": [
+      "/assets/img/products/ZDP038/ZDP038-01.webp",
+      "/assets/img/products/ZDP038/ZDP038-02.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP040",
+    "title": "2 Cámaras de Bicicleta 700 Presta (Nuevas Sin Abrir) R-stone y Decathlon",
+    "price": 6000,
+    "condition": "1",
+    "description": "Cámaras para bicicletas de ruta (700c) con válvula Presta. Compatibles con neumáticos delgados de ruta. Nuevas sin abrir.",
+    "images": [
+      "/assets/img/products/ZDP040/ZDP040-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP041",
+    "title": "Canilleras de Fútbol con Correas de Velcro Decathlon (Ancho Arriba: 12 cm - Ancho Abajo: 9 cm - Largo: 17 cm)",
+    "price": 3000,
+    "condition": "3",
+    "description": "Canilleras con fijación por correas de velcro. Diseño compacto (17 cm largo) que protege tibia sin limitar movilidad.",
+    "images": [
+      "/assets/img/products/ZDP041/ZDP041-01.webp",
+      "/assets/img/products/ZDP041/ZDP041-02.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP042",
+    "title": "Rodilleras de Vóleibol Decathlon Kipsta",
+    "price": 3000,
+    "condition": "3",
+    "description": "Rodilleras acolchadas diseñadas para impactos en suelo. Ajuste elástico que permite movilidad y estabilidad durante el juego.",
+    "images": [
+      "/assets/img/products/ZDP042/ZDP042-01.webp",
+      "/assets/img/products/ZDP042/ZDP042-02.webp",
+      "/assets/img/products/ZDP042/ZDP042-03.webp",
+      "/assets/img/products/ZDP042/ZDP042-04.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP043",
+    "title": "Muñequeras Para Patines / Skate Decathlon Oxelo",
+    "price": 3000,
+    "condition": "3",
+    "description": "Soporte para muñecas con ajuste firme. Ayudan a estabilizar la articulación en deportes como skate, patinaje o entrenamiento funcional.",
+    "images": [
+      "/assets/img/products/ZDP043/ZDP043-01.webp",
+      "/assets/img/products/ZDP043/ZDP043-02.webp",
+      "/assets/img/products/ZDP043/ZDP043-03.webp",
+      "/assets/img/products/ZDP043/ZDP043-04.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP044",
+    "title": "Botella de Metal 600 ml Keep",
+    "price": 3000,
+    "condition": "1",
+    "description": "Botella reutilizable de acero metálico. Resistente, mantiene temperatura por más tiempo y apta para uso diario.",
+    "images": [
+      "/assets/img/products/ZDP044/ZDP044-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP045",
+    "title": "2 Patos Biker para Bicicleta",
+    "price": 3000,
+    "condition": "2",
+    "description": "Accesorios decorativos tipo “rubber duck” para bicicleta. Se fijan al manubrio, añadiendo visibilidad y estilo.",
+    "images": [
+      "/assets/img/products/ZDP045/ZDP045-01.webp",
+      "/assets/img/products/ZDP045/ZDP045-02.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP046",
+    "title": "2 Monoculares Senderismo 6x con Correa Quechua",
+    "price": 3000,
+    "condition": "2",
+    "description": "Monoculares compactos con aumento 6x. Incluyen correa, adecuados para senderismo y observación básica en terreno.",
+    "images": [
+      "/assets/img/products/ZDP046/ZDP046-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP048",
+    "title": "Botella de Vidrio 500 ml con Compartimiento Para el Té y Correa Miniso",
+    "price": 2000,
+    "condition": "1",
+    "description": "Botella de vidrio con compartimiento para té/infusiones y correa de transporte. Permite preparar bebidas directamente en el recipiente.",
+    "images": [
+      "/assets/img/products/ZDP048/ZDP048-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP049",
+    "title": "Botella de Vidrio 410 ml con Infusor de Té Incorporado y Correa Keep",
+    "price": 2000,
+    "condition": "2",
+    "description": "Botella de vidrio con infusor integrado para té o frutas. Permite preparar bebidas directamente. Incluye correa para transporte.",
+    "images": [
+      "/assets/img/products/ZDP049/ZDP049-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP050",
+    "title": "Mini Foam Roller Verde",
+    "price": 2000,
+    "condition": "2",
+    "description": "Rodillo compacto de espuma para liberación muscular. Útil para masajes en zonas específicas y recuperación post entrenamiento.",
+    "images": [
+      "/assets/img/products/ZDP050/ZDP050-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP051",
+    "title": "Ejercitador de Resistencia y Fuerza Para Manos Handgrip Ring (Resistencia de 40kg) Decathlon Corength",
+    "price": 2000,
+    "condition": "1",
+    "description": "Anillo de resistencia de 40 kilos para fortalecer manos, dedos y antebrazo. Formato compacto, útil para entrenamiento de agarre.",
+    "images": [
+      "/assets/img/products/ZDP051/ZDP051-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP053",
+    "title": "Correa de Para Lentes de Neopreno Quechua MH100 Talla L (para patas entre 7mm y 10mm)",
+    "price": 1000,
+    "condition": "1",
+    "description": "Correa ajustable de neopreno para sujetar lentes. Compatible con patas de 7 a 10 mm. Evita caídas durante actividad.",
+    "images": [
+      "/assets/img/products/ZDP053/ZDP053-01.webp",
+      "/assets/img/products/ZDP053/ZDP053-02.webp",
+      "/assets/img/products/ZDP053/ZDP053-03.webp",
+      "/assets/img/products/ZDP053/ZDP053-04.webp",
+      "/assets/img/products/ZDP053/ZDP053-05.webp",
+      "/assets/img/products/ZDP053/ZDP053-06.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP054",
+    "title": "Skate Trainers",
+    "price": 1000,
+    "condition": "1",
+    "description": "Dispositivos que se colocan en las ruedas del skate para inmovilizarlas. Facilitan aprendizaje de trucos sin desplazamiento.",
+    "images": [
+      "/assets/img/products/ZDP054/ZDP054-01.webp",
+      "/assets/img/products/ZDP054/ZDP054-02.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP056",
+    "title": "Cuerda para Saltar Decathlon Azul",
+    "price": 1000,
+    "condition": "3",
+    "description": "Cuerda ligera para salto continuo. Mejora coordinación, resistencia cardiovascular y ritmo. Ajuste simple de largo.",
+    "images": [
+      "/assets/img/products/ZDP056/ZDP056-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP057",
+    "title": "Herramientas para Patines con Bolso (Llaves, Llaves Allen)",
+    "price": 2000,
+    "condition": "4",
+    "description": "Kit de herramientas (llaves y Allen) para ajuste y mantenimiento de patines. Incluye bolso para transporte.",
+    "images": [
+      "/assets/img/products/ZDP057/ZDP057-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP058",
+    "title": "Casco Talla S/M 53-57 cm Triple Eight Sweatsaver Carbon Rubber",
+    "price": 10000,
+    "condition": "3",
+    "description": "Casco certificado para skate/BMX con sistema Sweatsaver (espuma absorbente de sudor). Diseño de perfil bajo, cómodo y con buena ventilación.",
+    "images": [
+      "/assets/img/products/ZDP058/ZDP058-01.webp",
+      "/assets/img/products/ZDP058/ZDP058-02.webp",
+      "/assets/img/products/ZDP058/ZDP058-03.webp",
+      "/assets/img/products/ZDP058/ZDP058-04.webp",
+      "/assets/img/products/ZDP058/ZDP058-05.webp",
+      "/assets/img/products/ZDP058/ZDP058-06.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP059",
+    "title": "Lija de Skate Transparente Wisdom (Nuevo Sin Uso)",
+    "price": 5000,
+    "condition": "1",
+    "description": "Grip tape transparente para skate. Proporciona adherencia sobre la tabla sin cubrir el diseño. Nueva sin uso.",
+    "images": [
+      "/assets/img/products/ZDP059/ZDP059-01.webp",
+      "/assets/img/products/ZDP059/ZDP059-02.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP060",
+    "title": "Mancuernas de 2.5 kilos Vinilo",
+    "price": 3000,
+    "condition": "3",
+    "description": "Par de mancuernas recubiertas en vinilo. Superficie antideslizante y fácil de limpiar. Peso fijo de 2.5 kilos cada una.",
+    "images": [
+      "/assets/img/products/ZDP060/ZDP060-01.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP061",
+    "title": "Lentes Fotocromáticos Deportivos Ciclismo Running (Negro)",
+    "price": 5000,
+    "condition": "2",
+    "description": "Lentes con ajuste automático a la luz (fotocromáticos). Mejoran visibilidad en cambios de iluminación durante ciclismo o running.",
+    "images": [
+      "/assets/img/products/ZDP061/ZDP061-01.webp",
+      "/assets/img/products/ZDP061/ZDP061-02.webp",
+      "/assets/img/products/ZDP061/ZDP061-03.webp",
+      "/assets/img/products/ZDP061/ZDP061-04.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP062",
+    "title": "Lentes Fotocromáticos Deportivos Ciclismo Running (Negro con Rojo)",
+    "price": 5000,
+    "condition": "2",
+    "description": "Lentes con ajuste automático a la luz (fotocromáticos). Mejoran visibilidad en cambios de iluminación durante ciclismo o running.",
+    "images": [
+      "/assets/img/products/ZDP062/ZDP062-01.webp",
+      "/assets/img/products/ZDP062/ZDP062-02.webp",
+      "/assets/img/products/ZDP062/ZDP062-03.webp",
+      "/assets/img/products/ZDP062/ZDP062-04.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP063",
+    "title": "Lentes de Sol Senderismo Polarizados Decathlon MH530",
+    "price": 16000,
+    "condition": "2",
+    "description": "Lentes con filtro polarizado que reduce reflejos. Mejoran visión en exteriores y protegen contra radiación UV. Diseño envolvente.",
+    "images": [
+      "/assets/img/products/ZDP063/ZDP063-01.webp",
+      "/assets/img/products/ZDP063/ZDP063-02.webp",
+      "/assets/img/products/ZDP063/ZDP063-03.webp",
+      "/assets/img/products/ZDP063/ZDP063-04.webp",
+      "/assets/img/products/ZDP063/ZDP063-05.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDP064",
+    "title": "Lentes de Sol Senderismo Polarizados Decathlon MH530",
+    "price": 16000,
+    "condition": "2",
+    "description": "Lentes con filtro polarizado que reduce reflejos. Mejoran visión en exteriores y protegen contra radiación UV. Diseño envolvente.",
+    "images": [
+      "/assets/img/products/ZDP064/ZDP064-01.webp",
+      "/assets/img/products/ZDP064/ZDP064-02.webp",
+      "/assets/img/products/ZDP064/ZDP064-03.webp",
+      "/assets/img/products/ZDP064/ZDP064-04.webp",
+      "/assets/img/products/ZDP064/ZDP064-05.webp"
+    ],
+    "category": "dp"
+  },
+  {
+    "id": "ZDV002",
+    "title": "Dron 500 mah E88 Negro - Light Flow - Single Batt",
+    "price": 10000,
+    "condition": "1",
+    "description": "Dron compacto con cámara básica, control remoto y funciones como estabilización y modo sin cabeza. Batería de 500 mAh. Uso recreativo.",
+    "images": [
+      "/assets/img/products/ZDV002/ZDV002-01.webp",
+      "/assets/img/products/ZDV002/ZDV002-02.webp",
+      "/assets/img/products/ZDV002/ZDV002-03.webp",
+      "/assets/img/products/ZDV002/ZDV002-04.webp",
+      "/assets/img/products/ZDV002/ZDV002-05.webp",
+      "/assets/img/products/ZDV002/ZDV002-06.webp",
+      "/assets/img/products/ZDV002/ZDV002-07.webp",
+      "/assets/img/products/ZDV002/ZDV002-08.webp",
+      "/assets/img/products/ZDV002/ZDV002-09.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZDV003",
+    "title": "Cartas Pokemon Originales (Más de 500 Cartas) + 2 Sets de Contadores de Daño + Caja",
+    "price": 20000,
+    "condition": "2",
+    "description": "Lote de más de 500 cartas originales. Incluye 2 sets de contadores de daño y caja para almacenamiento.",
+    "images": [
+      "/assets/img/products/ZDV003/ZDV003-01.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZDV004",
+    "title": "Cartas Yugi-Oh Originales (Más de 200 Cartas) + 100 Protectores de Carta + 2 Deckbox",
+    "price": 15000,
+    "condition": "2",
+    "description": "Más de 200 cartas originales. Incluye 100 protectores y 2 deckbox para organización y cuidado.",
+    "images": [
+      "/assets/img/products/ZDV004/ZDV004-01.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZDV005",
+    "title": "Pulsera Pokemon Go Nintendo Original (Incluye Accesorio Para Usarlo Como Broche)",
+    "price": 10000,
+    "condition": "2",
+    "description": "Accesorio oficial compatible con Pokémon GO. Permite interactuar con el juego sin usar el celular constantemente.",
+    "images": [
+      "/assets/img/products/ZDV005/ZDV005-01.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZDV006",
+    "title": "2 Joysticks de PlayStation 2 Original + 2 Adaptadores USB para Conectarlos al Computador",
+    "price": 10000,
+    "condition": "3",
+    "description": "2 controles originales de PlayStation 2 con 2 adaptadores USB. Permiten uso en PC o emuladores.",
+    "images": [
+      "/assets/img/products/ZDV006/ZDV006-01.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZDV007",
+    "title": "3 Peluches de Los Osos Escandalosos (Polar, Panda y Pardo)",
+    "price": 5000,
+    "condition": "1",
+    "description": "Set de 3 peluches de We Bare Bears: Polar, Panda y Pardo de material suave.",
+    "images": [
+      "/assets/img/products/ZDV007/ZDV007-01.webp",
+      "/assets/img/products/ZDV007/ZDV007-02.webp",
+      "/assets/img/products/ZDV007/ZDV007-03.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZDV008",
+    "title": "Lavaplatos de Juguete con Agua en Circulación a Pilas Para Niños (Incluye Todos sus Accesorios Originales y Pilas)",
+    "price": 5000,
+    "condition": "1",
+    "description": "Lavaplatos infantil con sistema de agua en circulación (a pilas). Incluye accesorios originales. Simula uso real.",
+    "images": [
+      "/assets/img/products/ZDV008/ZDV008-01.webp",
+      "/assets/img/products/ZDV008/ZDV008-02.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZDV009",
+    "title": "Más de 350 Stickers (BTS, Pokemon, Nezuko, Los Simpsons, Rick y Morty, Attack on Titan, etc.)",
+    "price": 4000,
+    "condition": "1",
+    "description": "Lote de más de 350 stickers de distintas temáticas (anime, música, series). Variedad amplia para uso decorativo.",
+    "images": [
+      "/assets/img/products/ZDV009/ZDV009-01.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZDV010",
+    "title": "2 Peluches de Pingüino Celeste Miniso",
+    "price": 3000,
+    "condition": "3",
+    "description": "2 peluches marca Miniso de material suave.",
+    "images": [
+      "/assets/img/products/ZDV010/ZDV010-01.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZDV011",
+    "title": "Set de 5 Juegos Típicos de Madera (3 Emboques, 1 Yoyo y 1 Kendama)",
+    "price": 4000,
+    "condition": "1",
+    "description": "Set de juegos tradicionales: 3 emboques, 1 yoyo y 1 kendama. Favorecen coordinación y destreza manual.",
+    "images": [
+      "/assets/img/products/ZDV011/ZDV011-01.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZDV012",
+    "title": "Set de 4 Figuras de My Little Pony Original (Applejack, Zecora, Applebloom, Lotus Blossom)",
+    "price": 4000,
+    "condition": "2",
+    "description": "Set original con 4 personajes: Applejack, Zecora, Applebloom y Lotus Blossom. Figuras coleccionables.",
+    "images": [
+      "/assets/img/products/ZDV012/ZDV012-01.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZDV015",
+    "title": "4 Porta Credenciales / Tarjetas Transparente (Nuevo Sin Uso)",
+    "price": 1000,
+    "condition": "1",
+    "description": "Fundas plásticas para tarjetas o credenciales. Formato transparente, nuevas sin uso.",
+    "images": [
+      "/assets/img/products/ZDV015/ZDV015-01.webp",
+      "/assets/img/products/ZDV015/ZDV015-02.webp"
+    ],
+    "category": "dv"
+  },
+  {
+    "id": "ZHG001",
+    "title": "Cama Apilable de Pino 80x200 cm Ikea UTÅKER",
+    "price": 100000,
+    "condition": "3",
+    "description": "Cama de pino macizo que puede usarse individual o apilada. Permite configurar cama doble o separar según necesidad.",
+    "images": [
+      "/assets/img/products/ZHG001/ZHG001-01.webp",
+      "/assets/img/products/ZHG001/ZHG001-02.webp",
+      "/assets/img/products/ZHG001/ZHG001-03.webp",
+      "/assets/img/products/ZHG001/ZHG001-04.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG003",
+    "title": "Escritorio de Altura Regulable Mainstays (Largo: 120 cm | Ancho: 60 cm | Alto min.: 72 cm | Alto máx.: 102 cm)",
+    "price": 65000,
+    "condition": "3",
+    "description": "Escritorio con altura ajustable (72 a 102 cm). Permite trabajar sentado o de pie. Superficie amplia, estructura estable.",
+    "images": [
+      "/assets/img/products/ZHG003/ZHG003-01.webp",
+      "/assets/img/products/ZHG003/ZHG003-02.webp",
+      "/assets/img/products/ZHG003/ZHG003-03.webp",
+      "/assets/img/products/ZHG003/ZHG003-04.webp",
+      "/assets/img/products/ZHG003/ZHG003-05.webp",
+      "/assets/img/products/ZHG003/ZHG003-06.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG004",
+    "title": "Escritorio de Altura Regulable Mainstays (Largo: 120 cm | Ancho: 60 cm | Alto min.: 72 cm | Alto máx.: 102 cm)",
+    "price": 65000,
+    "condition": "3",
+    "description": "Escritorio con altura ajustable (72 a 102 cm). Permite trabajar sentado o de pie. Superficie amplia, estructura estable.",
+    "images": [
+      "/assets/img/products/ZHG004/ZHG004-01.webp",
+      "/assets/img/products/ZHG004/ZHG004-02.webp",
+      "/assets/img/products/ZHG004/ZHG004-03.webp",
+      "/assets/img/products/ZHG004/ZHG004-04.webp",
+      "/assets/img/products/ZHG004/ZHG004-05.webp",
+      "/assets/img/products/ZHG004/ZHG004-06.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG005",
+    "title": "Silla de Oficina Ikea Huvudspelare",
+    "price": 40000,
+    "condition": "3",
+    "description": "Silla ergonómica con respaldo ventilado y soporte lumbar. Altura regulable, diseñada para uso prolongado frente al escritorio.",
+    "images": [
+      "/assets/img/products/ZHG005/ZHG005-01.webp",
+      "/assets/img/products/ZHG005/ZHG005-02.webp",
+      "/assets/img/products/ZHG005/ZHG005-03.webp",
+      "/assets/img/products/ZHG005/ZHG005-04.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG008",
+    "title": "Aspiradora de Arrastre 2000 watts con Bolsa de 3 litros Samsung VCC4190V3E/XZS",
+    "price": 30000,
+    "condition": "2",
+    "description": "Aspiradora de arrastre con motor de 2000 watts y bolsa de 3 litros. Buena capacidad de succión, adecuada para limpieza completa del hogar.",
+    "images": [
+      "/assets/img/products/ZHG008/ZHG008-01.webp",
+      "/assets/img/products/ZHG008/ZHG008-02.webp",
+      "/assets/img/products/ZHG008/ZHG008-03.webp",
+      "/assets/img/products/ZHG008/ZHG008-04.webp",
+      "/assets/img/products/ZHG008/ZHG008-05.webp",
+      "/assets/img/products/ZHG008/ZHG008-06.webp",
+      "/assets/img/products/ZHG008/ZHG008-07.webp",
+      "/assets/img/products/ZHG008/ZHG008-08.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG011",
+    "title": "2 Mesas Para Cama / Sofá Plegables con Altura Regulable (Cada Mesa Aguanta 22.67 kilos)",
+    "price": 10000,
+    "condition": "2",
+    "description": "Mesas auxiliares plegables con altura ajustable. Se adaptan para uso en cama, sofá o trabajo portátil. Fácil almacenamiento.",
+    "images": [
+      "/assets/img/products/ZHG011/ZHG011-01.webp",
+      "/assets/img/products/ZHG011/ZHG011-02.webp",
+      "/assets/img/products/ZHG011/ZHG011-03.webp",
+      "/assets/img/products/ZHG011/ZHG011-04.webp",
+      "/assets/img/products/ZHG011/ZHG011-05.webp",
+      "/assets/img/products/ZHG011/ZHG011-06.webp",
+      "/assets/img/products/ZHG011/ZHG011-07.webp",
+      "/assets/img/products/ZHG011/ZHG011-08.webp",
+      "/assets/img/products/ZHG011/ZHG011-09.webp",
+      "/assets/img/products/ZHG011/ZHG011-10.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG012",
+    "title": "Aspiradora de Mano Portátil Recargable Xiaomi Mi Vacuum Cleaner Mini",
+    "price": 10000,
+    "condition": "3",
+    "description": "Aspiradora portátil recargable, compacta y ligera. Diseñada para limpieza rápida en escritorio, auto o espacios pequeños. Se recomienda cambiar el filtro HEPA.",
+    "images": [
+      "/assets/img/products/ZHG012/ZHG012-01.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG013",
+    "title": "2 Barras Mural Para Ropa Extensible Ikea 60-90 cm",
+    "price": 6000,
+    "condition": "2",
+    "description": "Barras para colgar ropa ajustables (60 a 90 cm). Instalación mural, útiles para optimizar espacio en closets o muros.",
+    "images": [
+      "/assets/img/products/ZHG013/ZHG013-01.webp",
+      "/assets/img/products/ZHG013/ZHG013-02.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG014",
+    "title": "2 Pares de Ganchos de Suspensión Pared / Techo Para Yoga / Box / Trx",
+    "price": 6000,
+    "condition": "1",
+    "description": "Soportes metálicos para instalación en muro o techo. Permiten colgar implementos como TRX, saco de box o anillas. Estructura resistente para carga.",
+    "images": [
+      "/assets/img/products/ZHG014/ZHG014-01.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG016",
+    "title": "Multímetro Tester de corriente",
+    "price": 5000,
+    "condition": "2",
+    "description": "Instrumento para medir voltaje, corriente y resistencia. Útil para diagnóstico eléctrico básico en hogar o proyectos.",
+    "images": [
+      "/assets/img/products/ZHG016/ZHG016-01.webp",
+      "/assets/img/products/ZHG016/ZHG016-02.webp",
+      "/assets/img/products/ZHG016/ZHG016-03.webp",
+      "/assets/img/products/ZHG016/ZHG016-04.webp",
+      "/assets/img/products/ZHG016/ZHG016-05.webp",
+      "/assets/img/products/ZHG016/ZHG016-06.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG017",
+    "title": "Difusor de Aromas 80 ml USB Aromaterapia Humidificador",
+    "price": 5000,
+    "condition": "3",
+    "description": "Difusor/humidificador compacto con alimentación USB. Permite dispersar aromas y mejorar humedad en espacios pequeños. Capacidad 80 ml.",
+    "images": [
+      "/assets/img/products/ZHG017/ZHG017-01.webp",
+      "/assets/img/products/ZHG017/ZHG017-02.webp",
+      "/assets/img/products/ZHG017/ZHG017-03.webp",
+      "/assets/img/products/ZHG017/ZHG017-04.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG018",
+    "title": "Rodilleras Para Trabajo JMAK Estándar",
+    "price": 3000,
+    "condition": "3",
+    "description": "Rodilleras de protección para trabajos en suelo. Reducen presión en articulaciones durante labores prolongadas.",
+    "images": [
+      "/assets/img/products/ZHG018/ZHG018-01.webp",
+      "/assets/img/products/ZHG018/ZHG018-02.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG019",
+    "title": "Mini Ventilador USB",
+    "price": 3000,
+    "condition": "2",
+    "description": "Ventilador portátil de bajo consumo con conexión USB. Útil para escritorio o uso personal en espacios reducidos.",
+    "images": [
+      "/assets/img/products/ZHG019/ZHG019-01.webp",
+      "/assets/img/products/ZHG019/ZHG019-02.webp",
+      "/assets/img/products/ZHG019/ZHG019-03.webp",
+      "/assets/img/products/ZHG019/ZHG019-04.webp",
+      "/assets/img/products/ZHG019/ZHG019-05.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG020",
+    "title": "Antideslizante para Alfombras Ikea Stopp Filt",
+    "price": 3000,
+    "condition": "1",
+    "description": "Base antideslizante para alfombras. Evita desplazamientos y mejora estabilidad sobre el piso.",
+    "images": [
+      "/assets/img/products/ZHG020/ZHG020-01.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG021",
+    "title": "Reloj a Pilas con Forma de Ave",
+    "price": 2000,
+    "condition": "2",
+    "description": "Reloj decorativo con funcionamiento a pilas. Diseño temático en forma de ave.",
+    "images": [
+      "/assets/img/products/ZHG021/ZHG021-01.webp",
+      "/assets/img/products/ZHG021/ZHG021-02.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG022",
+    "title": "Alfileres de Gancho (Más de 300 Unidades)",
+    "price": 2000,
+    "condition": "1",
+    "description": "Set de alfileres metálicos tipo gancho. Útiles para costura, fijación o manualidades.",
+    "images": [
+      "/assets/img/products/ZHG022/ZHG022-01.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG023",
+    "title": "Ampolleta Led 40 watts 2700 k Ikea Solhetta Led",
+    "price": 1000,
+    "condition": "2",
+    "description": "Ampolleta LED de luz cálida (2700K). Bajo consumo y larga duración. Compatible con uso doméstico estándar.",
+    "images": [
+      "/assets/img/products/ZHG023/ZHG023-01.webp",
+      "/assets/img/products/ZHG023/ZHG023-02.webp",
+      "/assets/img/products/ZHG023/ZHG023-03.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG024",
+    "title": "Anillas metálicas (6 unidades de 3.2cm y 5 unidades de 3.8cm)",
+    "price": 1000,
+    "condition": "1",
+    "description": "Set de anillas metálicas: 6 de 3.2 cm y 5 de 3.8 cm. Útiles para llaveros, manualidades o sujeción de elementos.",
+    "images": [
+      "/assets/img/products/ZHG024/ZHG024-01.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG025",
+    "title": "Cinta de Velcro 2.5 x 70cm",
+    "price": 1000,
+    "condition": "1",
+    "description": "Cinta de velcro reutilizable. Permite fijar, agrupar o asegurar objetos de forma ajustable.",
+    "images": [
+      "/assets/img/products/ZHG025/ZHG025-01.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG026",
+    "title": "Alambre Delgado",
+    "price": 1000,
+    "condition": "1",
+    "description": "Alambre flexible de calibre delgado. Útil para manualidades, fijaciones livianas o trabajos simples.",
+    "images": [
+      "/assets/img/products/ZHG026/ZHG026-01.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG030",
+    "title": "Mopa Presión 12x37 cm Ikea Pepprig + 2 Repuestos Paño Microfibra + Limpia Vidrios (Todo Nuevo Sin Uso)",
+    "price": 8000,
+    "condition": "1",
+    "description": "Set de limpieza que incluye mopa de presión (12x37 cm), 2 paños de microfibra y limpiavidrios. Todo nuevo sin uso.",
+    "images": [
+      "/assets/img/products/ZHG030/ZHG030-01.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG031",
+    "title": "Recipiente Plástico Plegable 27 cm Ikea Pepprig (Nuevo Sin Uso)",
+    "price": 2000,
+    "condition": "1",
+    "description": "Contenedor plástico plegable de 27 cm. Permite ahorrar espacio cuando no se utiliza. Nuevo sin uso.",
+    "images": [
+      "/assets/img/products/ZHG031/ZHG031-01.webp",
+      "/assets/img/products/ZHG031/ZHG031-02.webp",
+      "/assets/img/products/ZHG031/ZHG031-03.webp",
+      "/assets/img/products/ZHG031/ZHG031-04.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG032",
+    "title": "Alfombra 60x90 cm Ikea ÖSTERILD",
+    "price": 4000,
+    "condition": "3",
+    "description": "Alfombra de 60 × 90 cm con diseño compacto, ideal para entradas, dormitorios o espacios de uso diario. Aporta comodidad y ayuda a proteger el piso mientras complementa la decoración del ambiente.",
+    "images": [
+      "/assets/img/products/ZHG032/ZHG032-01.webp",
+      "/assets/img/products/ZHG032/ZHG032-02.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZHG033",
+    "title": "Alfombra 60x90 cm Ikea ÖSTERILD",
+    "price": 4000,
+    "condition": "3",
+    "description": "Alfombra de 60 × 90 cm con diseño compacto, ideal para entradas, dormitorios o espacios de uso diario. Aporta comodidad y ayuda a proteger el piso mientras complementa la decoración del ambiente.",
+    "images": [
+      "/assets/img/products/ZHG033/ZHG033-01.webp",
+      "/assets/img/products/ZHG033/ZHG033-02.webp"
+    ],
+    "category": "hg"
+  },
+  {
+    "id": "ZLK002",
+    "title": "Plancha de Viaje Para Pelo Pichara",
+    "price": 5000,
+    "condition": "2",
+    "description": "Plancha compacta para el cabello. Tamaño portátil, adecuada para viajes o retoques rápidos. Calentamiento rápido.",
+    "images": [
+      "/assets/img/products/ZLK002/ZLK002-01.webp",
+      "/assets/img/products/ZLK002/ZLK002-02.webp"
+    ],
+    "category": "lk"
+  },
+  {
+    "id": "ZLK003",
+    "title": "Plancha de Viaje Para Pelo Gama + Estuche",
+    "price": 5000,
+    "condition": "2",
+    "description": "Plancha de pelo compacta marca Gama. Incluye estuche para transporte. Tamaño reducido, práctica para uso fuera de casa.",
+    "images": [
+      "/assets/img/products/ZLK003/ZLK003-01.webp",
+      "/assets/img/products/ZLK003/ZLK003-02.webp",
+      "/assets/img/products/ZLK003/ZLK003-03.webp"
+    ],
+    "category": "lk"
+  },
+  {
+    "id": "ZLK004",
+    "title": "Masajeador Eléctrico Recargable Decathlon Aptonia",
+    "price": 5000,
+    "condition": "3",
+    "description": "Masajeador recargable diseñado para recuperación muscular. Ayuda a aliviar tensión y mejorar circulación tras actividad física.",
+    "images": [
+      "/assets/img/products/ZLK004/ZLK004-01.webp"
+    ],
+    "category": "lk"
+  },
+  {
+    "id": "ZLK005",
+    "title": "Crema Hidratante para Manos Natura Ekos Tukuma 75gr (Nuevo Sin Abrir)",
+    "price": 4000,
+    "condition": "1",
+    "description": "Crema hidratante con fórmula nutritiva. Textura ligera de rápida absorción. Producto nuevo sin abrir.",
+    "images": [
+      "/assets/img/products/ZLK005/ZLK005-01.webp"
+    ],
+    "category": "lk"
+  },
+  {
+    "id": "ZLK006",
+    "title": "Sombrilla de Sol Tamaño Personal Azul",
+    "price": 2000,
+    "condition": "1",
+    "description": "Sombrilla compacta para protección solar. Tamaño portátil, fácil de transportar en uso diario.",
+    "images": [
+      "/assets/img/products/ZLK006/ZLK006-01.webp",
+      "/assets/img/products/ZLK006/ZLK006-02.webp",
+      "/assets/img/products/ZLK006/ZLK006-03.webp"
+    ],
+    "category": "lk"
+  },
+  {
+    "id": "ZLK007",
+    "title": "Elásticos Pequeños Para Cabello",
+    "price": 1000,
+    "condition": "1",
+    "description": "Set de elásticos pequeños. Útiles para peinados, trenzas o sujeción diaria del cabello.",
+    "images": [
+      "/assets/img/products/ZLK007/ZLK007-01.webp",
+      "/assets/img/products/ZLK007/ZLK007-02.webp"
+    ],
+    "category": "lk"
+  },
+  {
+    "id": "ZMS003",
+    "title": "Guitarra Eléctrica Behringer + Amplificador 15 watts Behringer + Funda + Atril + Correa",
+    "price": 50000,
+    "condition": "3",
+    "description": "Guitarra eléctrica Behringer con amplificador de 15W. Incluye funda, atril y correa. Configuración completa para tocar desde el primer día.",
+    "images": [
+      "/assets/img/products/ZMS003/ZMS003-01.webp",
+      "/assets/img/products/ZMS003/ZMS003-02.webp",
+      "/assets/img/products/ZMS003/ZMS003-03.webp",
+      "/assets/img/products/ZMS003/ZMS003-04.webp",
+      "/assets/img/products/ZMS003/ZMS003-05.webp",
+      "/assets/img/products/ZMS003/ZMS003-06.webp",
+      "/assets/img/products/ZMS003/ZMS003-07.webp",
+      "/assets/img/products/ZMS003/ZMS003-08.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS005",
+    "title": "Bajo Eléctrico Steeler + Funda + Atril + Correa",
+    "price": 30000,
+    "condition": "3",
+    "description": "Bajo eléctrico marca Steeler. Incluye funda, atril y correa. Configuración funcional para práctica y ensayo.",
+    "images": [
+      "/assets/img/products/ZMS005/ZMS005-01.webp",
+      "/assets/img/products/ZMS005/ZMS005-02.webp",
+      "/assets/img/products/ZMS005/ZMS005-03.webp",
+      "/assets/img/products/ZMS005/ZMS005-04.webp",
+      "/assets/img/products/ZMS005/ZMS005-05.webp",
+      "/assets/img/products/ZMS005/ZMS005-06.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS006",
+    "title": "Micrófono Dinámico Vocal Audio Technica MB1K + Atril + Pinza",
+    "price": 30000,
+    "condition": "3",
+    "description": "Micrófono dinámico vocal con patrón cardioide. Reduce ruido ambiente y es adecuado para voz en vivo. Incluye atril y pinza.",
+    "images": [
+      "/assets/img/products/ZMS006/ZMS006-01.webp",
+      "/assets/img/products/ZMS006/ZMS006-02.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS007",
+    "title": "Batería Musical Portátil Flexible Baldassare",
+    "price": 20000,
+    "condition": "2",
+    "description": "Batería electrónica flexible de silicona. Permite practicar con audífonos y ocupa poco espacio. Diseño portátil.",
+    "images": [
+      "/assets/img/products/ZMS007/ZMS007-01.webp",
+      "/assets/img/products/ZMS007/ZMS007-02.webp",
+      "/assets/img/products/ZMS007/ZMS007-03.webp",
+      "/assets/img/products/ZMS007/ZMS007-04.webp",
+      "/assets/img/products/ZMS007/ZMS007-05.webp",
+      "/assets/img/products/ZMS007/ZMS007-06.webp",
+      "/assets/img/products/ZMS007/ZMS007-07.webp",
+      "/assets/img/products/ZMS007/ZMS007-08.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS010",
+    "title": "2 Flautas Dulce Honner y Aulos",
+    "price": 3000,
+    "condition": "3",
+    "description": "2 flautas dulces de marcas reconocidas. Instrumentos de digitación estándar, adecuados para aprendizaje musical.",
+    "images": [
+      "/assets/img/products/ZMS010/ZMS010-01.webp",
+      "/assets/img/products/ZMS010/ZMS010-02.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS011",
+    "title": "Set de 46 Uñetas Para Guitarra/Bajo de Distintos Grosores + Caja Organizadora de Uñetas",
+    "price": 3000,
+    "condition": "2",
+    "description": "Pack de 46 uñetas de distintos grosores. Permiten variar ataque y control al tocar guitarra o bajo. Incluye caja.",
+    "images": [
+      "/assets/img/products/ZMS011/ZMS011-01.webp",
+      "/assets/img/products/ZMS011/ZMS011-02.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS012",
+    "title": "Mini Conga Shaker Percusión LP",
+    "price": 1000,
+    "condition": "2",
+    "description": "Instrumento de percusión tipo shaker con diseño de mini conga. Produce sonido rítmico claro, fácil de usar.",
+    "images": [
+      "/assets/img/products/ZMS012/ZMS012-01.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS013",
+    "title": "Kazoo RMX",
+    "price": 1000,
+    "condition": "2",
+    "description": "Instrumento de viento simple que modifica la voz al soplar. Uso recreativo y musical básico.",
+    "images": [
+      "/assets/img/products/ZMS013/ZMS013-01.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS015",
+    "title": "2 Pares de Baquetas Vic Firth",
+    "price": 2000,
+    "condition": "4",
+    "description": "Baquetas de marca reconocida por durabilidad y balance. Adecuadas para práctica y uso en batería acústica o electrónica.",
+    "images": [
+      "/assets/img/products/ZMS015/ZMS015-01.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS016",
+    "title": "Cable de Micrófono XLR Hembra a Jack 6.3 mm 5 metros Kirlin",
+    "price": 4000,
+    "condition": "2",
+    "description": "Cable de micrófono balanceado. Convierte XLR hembra a jack 6.3 mm (plug). Marca Kirlin, conocida por cables confiables. Largo 5 metros.",
+    "images": [
+      "/assets/img/products/ZMS016/ZMS016-01.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS017",
+    "title": "Cable de Micrófono XLR Hembra a XLR Macho (3 Pines) 4 metros 50 cm",
+    "price": 4000,
+    "condition": "2",
+    "description": "Cable XLR de 3 pines para micrófonos. Transmisión balanceada que reduce ruido. Largo aproximado 4.5 metros.",
+    "images": [
+      "/assets/img/products/ZMS017/ZMS017-01.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS018",
+    "title": "Cable 1 XLR Macho a 2 XLR Hembra 3 metros",
+    "price": 4000,
+    "condition": "2",
+    "description": "Cable divisor (splitter) que permite enviar una señal XLR a dos entradas. Útil en configuraciones de audio o grabación. Largo 3 metros.",
+    "images": [
+      "/assets/img/products/ZMS018/ZMS018-01.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS019",
+    "title": "Cable Guitarra / Bajo Jack 6.3 mm Macho a Jack 6.3 mm Macho 5 metros",
+    "price": 4000,
+    "condition": "2",
+    "description": "Cable mono para guitarra o bajo. Conectores estándar 6.3 mm. Adecuado para amplificadores e instrumentos. Largo 5 metros.",
+    "images": [
+      "/assets/img/products/ZMS019/ZMS019-01.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS020",
+    "title": "Cuerdas Guitarra Electrica .009 - .042 Queen + Correa + Herramienta 3 en 1 Cortador, Enrrollador y Extractor (Nuevos Sin Uso)",
+    "price": 5000,
+    "condition": "1",
+    "description": "Set de cuerdas calibre .009–.042 (tensión ligera). Incluye correa y herramienta 3 en 1 (cortador, enrollador y extractor de pines). Todo nuevo sin uso.",
+    "images": [
+      "/assets/img/products/ZMS020/ZMS020-01.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZMS021",
+    "title": "Cable de Audio RCA a 3.5 mm 3 metros",
+    "price": 2000,
+    "condition": "2",
+    "description": "Cable estéreo que convierte RCA (L/R) a jack 3.5 mm. Permite conectar equipos de audio a parlantes, PC o sistemas auxiliares. Largo 3 metros.",
+    "images": [
+      "/assets/img/products/ZMS021/ZMS021-01.webp"
+    ],
+    "category": "ms"
+  },
+  {
+    "id": "ZRP001",
+    "title": "Sandalias Adidas Terrex Hydroterra Talla 38: 24 cm",
+    "price": 20000,
+    "condition": "2",
+    "description": "Sandalias outdoor Adidas Terrex Hydroterra, ideales para agua, trekking o uso diario. Talla 38 (24 cm).",
+    "images": [
+      "/assets/img/products/ZRP001/ZRP001-01.webp",
+      "/assets/img/products/ZRP001/ZRP001-02.webp",
+      "/assets/img/products/ZRP001/ZRP001-03.webp",
+      "/assets/img/products/ZRP001/ZRP001-04.webp",
+      "/assets/img/products/ZRP001/ZRP001-05.webp",
+      "/assets/img/products/ZRP001/ZRP001-06.webp",
+      "/assets/img/products/ZRP001/ZRP001-07.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP002",
+    "title": "Calzas UV para Surf Decathlon Talla S: 87-92 cm (Nuevo Sin Uso)",
+    "price": 10000,
+    "condition": "1",
+    "description": "Calzas deportivas con protección UV. Marca Decathlon. Talla S (87–92 cm). Nuevas sin uso.",
+    "images": [
+      "/assets/img/products/ZRP002/ZRP002-01.webp",
+      "/assets/img/products/ZRP002/ZRP002-02.webp",
+      "/assets/img/products/ZRP002/ZRP002-03.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP003",
+    "title": "Polera UV Manga Larga Surf Azul Talla S: 88-91 cm (Nuevo Sin Uso)",
+    "price": 10000,
+    "condition": "1",
+    "description": "Polera deportiva con protección UV, manga larga. Ideal para surf o actividades al sol. Talla S (88–91 cm). Nueva sin uso.",
+    "images": [
+      "/assets/img/products/ZRP003/ZRP003-01.webp",
+      "/assets/img/products/ZRP003/ZRP003-02.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP004",
+    "title": "Zapatos Bruno Rossi Talla 40",
+    "price": 10000,
+    "condition": "3",
+    "description": "Zapatos de vestir Bruno Rossi. Talla 40.",
+    "images": [
+      "/assets/img/products/ZRP004/ZRP004-01.webp",
+      "/assets/img/products/ZRP004/ZRP004-02.webp",
+      "/assets/img/products/ZRP004/ZRP004-03.webp",
+      "/assets/img/products/ZRP004/ZRP004-04.webp",
+      "/assets/img/products/ZRP004/ZRP004-05.webp",
+      "/assets/img/products/ZRP004/ZRP004-06.webp",
+      "/assets/img/products/ZRP004/ZRP004-07.webp",
+      "/assets/img/products/ZRP004/ZRP004-08.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP005",
+    "title": "Pijama Oso Panda Kigurumi Adulto Talla S (Nuevo Sin Uso)",
+    "price": 6000,
+    "condition": "1",
+    "description": "Pijama tipo kigurumi diseño panda. Talla S. Nuevo sin uso. Ideal para invierno o disfraces.",
+    "images": [
+      "/assets/img/products/ZRP005/ZRP005-01.webp",
+      "/assets/img/products/ZRP005/ZRP005-02.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP007",
+    "title": "Almohada para Viaje con Antifaz de los Osos Escandalosos Polar",
+    "price": 4000,
+    "condition": "1",
+    "description": "Almohada cervical con antifaz diseño Osos Escandalosos Polar. Ideal para viajes.",
+    "images": [
+      "/assets/img/products/ZRP007/ZRP007-01.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP008",
+    "title": "Almohada para Viaje con Antifaz de los Osos Escandalosos Panda",
+    "price": 4000,
+    "condition": "1",
+    "description": "Almohada cervical con antifaz diseño Osos Escandalosos Panda. Ideal para viajes.",
+    "images": [
+      "/assets/img/products/ZRP008/ZRP008-01.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP009",
+    "title": "Almohada para Viaje con Antifaz de los Osos Escandalosos Pardo",
+    "price": 4000,
+    "condition": "2",
+    "description": "Almohada cervical con antifaz diseño Osos Escandalosos Pardo. Ideal para viajes.",
+    "images": [
+      "/assets/img/products/ZRP009/ZRP009-01.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP010",
+    "title": "Almohada para viaje con Vibración Masajeador",
+    "price": 4000,
+    "condition": "2",
+    "description": "Almohada cervical con función de masaje vibratorio. Ideal para viajes largos.",
+    "images": [
+      "/assets/img/products/ZRP010/ZRP010-01.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP011",
+    "title": "Lentes de Sol Aviador Falcone",
+    "price": 4000,
+    "condition": "2",
+    "description": "Lentes de sol estilo aviador marca Falcone.",
+    "images": [
+      "/assets/img/products/ZRP011/ZRP011-01.webp",
+      "/assets/img/products/ZRP011/ZRP011-02.webp",
+      "/assets/img/products/ZRP011/ZRP011-03.webp",
+      "/assets/img/products/ZRP011/ZRP011-04.webp",
+      "/assets/img/products/ZRP011/ZRP011-05.webp",
+      "/assets/img/products/ZRP011/ZRP011-06.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP012",
+    "title": "Clip Adaptable a Lentes Ópticos Categoría 3 Polarizado Decathlon MH OTG 120",
+    "price": 4000,
+    "condition": "2",
+    "description": "Clip adaptable polarizado categoría 3. Compatible con lentes ópticos. Marca Decathlon.",
+    "images": [
+      "/assets/img/products/ZRP012/ZRP012-01.webp",
+      "/assets/img/products/ZRP012/ZRP012-02.webp",
+      "/assets/img/products/ZRP012/ZRP012-03.webp",
+      "/assets/img/products/ZRP012/ZRP012-04.webp",
+      "/assets/img/products/ZRP012/ZRP012-05.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP013",
+    "title": "Lentes de Sol Cuadrados Peppermint (Tonos Azulados)",
+    "price": 4000,
+    "condition": "2",
+    "description": "Lentes de sol diseño cuadrado con tonos azulados. Marca Peppermint.",
+    "images": [
+      "/assets/img/products/ZRP013/ZRP013-01.webp",
+      "/assets/img/products/ZRP013/ZRP013-02.webp",
+      "/assets/img/products/ZRP013/ZRP013-03.webp",
+      "/assets/img/products/ZRP013/ZRP013-04.webp",
+      "/assets/img/products/ZRP013/ZRP013-05.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP017",
+    "title": "Banano Azul",
+    "price": 2000,
+    "condition": "3",
+    "description": "Banano compacto y funcional.",
+    "images": [
+      "/assets/img/products/ZRP017/ZRP017-01.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP018",
+    "title": "Billetera Miniso Negra",
+    "price": 2000,
+    "condition": "3",
+    "description": "Billetera con múltiples compartimientos marca Miniso. Color negro.",
+    "images": [
+      "/assets/img/products/ZRP018/ZRP018-01.webp",
+      "/assets/img/products/ZRP018/ZRP018-02.webp",
+      "/assets/img/products/ZRP018/ZRP018-03.webp",
+      "/assets/img/products/ZRP018/ZRP018-04.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP020",
+    "title": "Monedero con Botón a Presión",
+    "price": 1000,
+    "condition": "3",
+    "description": "Monedero compacto con cierre a presión.",
+    "images": [
+      "/assets/img/products/ZRP020/ZRP020-01.webp",
+      "/assets/img/products/ZRP020/ZRP020-02.webp",
+      "/assets/img/products/ZRP020/ZRP020-03.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP021",
+    "title": "Monedero Tejido con Cierre Verde",
+    "price": 1000,
+    "condition": "3",
+    "description": "Monedero tejido con cierre. Color verde.",
+    "images": [
+      "/assets/img/products/ZRP021/ZRP021-01.webp",
+      "/assets/img/products/ZRP021/ZRP021-02.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP022",
+    "title": "Monedero con Cierre Negro",
+    "price": 1000,
+    "condition": "3",
+    "description": "Monedero clásico con cierre. Color negro.",
+    "images": [
+      "/assets/img/products/ZRP022/ZRP022-01.webp",
+      "/assets/img/products/ZRP022/ZRP022-02.webp",
+      "/assets/img/products/ZRP022/ZRP022-03.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP023",
+    "title": "Bolso Rosado",
+    "price": 1000,
+    "condition": "4",
+    "description": "Bolso casual color rosado.",
+    "images": [
+      "/assets/img/products/ZRP023/ZRP023-01.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP024",
+    "title": "Bolso Pequeño Negro",
+    "price": 1000,
+    "condition": "4",
+    "description": "Bolso compacto color negro.",
+    "images": [
+      "/assets/img/products/ZRP024/ZRP024-01.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP025",
+    "title": "Lentes de Sol Aviador Celeste Peppermint",
+    "price": 4000,
+    "condition": "2",
+    "description": "Lentes de sol estilo aviador con marco liviano y lentes en tono celeste. Ofrecen protección para el uso diario y un diseño clásico de inspiración retro.",
+    "images": [
+      "/assets/img/products/ZRP025/ZRP025-01.webp",
+      "/assets/img/products/ZRP025/ZRP025-02.webp",
+      "/assets/img/products/ZRP025/ZRP025-03.webp",
+      "/assets/img/products/ZRP025/ZRP025-04.webp",
+      "/assets/img/products/ZRP025/ZRP025-05.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP026",
+    "title": "Lentes de Sol Redondos Miniso (Tonos Verdes)",
+    "price": 4000,
+    "condition": "2",
+    "description": "Lentes de sol de diseño redondo con lentes en tonos verdes. Estilo versátil y liviano, ideales para complementar un look casual mientras ayudan a reducir el brillo del sol.",
+    "images": [
+      "/assets/img/products/ZRP026/ZRP026-01.webp",
+      "/assets/img/products/ZRP026/ZRP026-02.webp",
+      "/assets/img/products/ZRP026/ZRP026-03.webp",
+      "/assets/img/products/ZRP026/ZRP026-04.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZRP027",
+    "title": "Lentes Fotocromáticos Amarillos",
+    "price": 5000,
+    "condition": "2",
+    "description": "Lentes fotocromáticos que ajustan el tono de los cristales según la intensidad de la luz. Favorecen la visibilidad en distintas condiciones de iluminación y brindan protección para actividades al aire libre.",
+    "images": [
+      "/assets/img/products/ZRP027/ZRP027-01.webp",
+      "/assets/img/products/ZRP027/ZRP027-02.webp",
+      "/assets/img/products/ZRP027/ZRP027-03.webp",
+      "/assets/img/products/ZRP027/ZRP027-04.webp"
+    ],
+    "category": "rp"
+  },
+  {
+    "id": "ZTC001",
+    "title": "Monitor 21.5\" LG 22MP410-B",
+    "price": 60000,
+    "condition": "3",
+    "description": "Monitor LG 21.5” modelo 22MP410-B. Ideal para trabajo, estudio o uso diario.",
+    "images": [
+      "/assets/img/products/ZTC001/ZTC001-01.webp",
+      "/assets/img/products/ZTC001/ZTC001-02.webp",
+      "/assets/img/products/ZTC001/ZTC001-03.webp"
+    ],
+    "category": "tc"
+  },
+  {
+    "id": "ZTC002",
+    "title": "Monitor 18.5\" AOC",
+    "price": 30000,
+    "condition": "3",
+    "description": "Monitor AOC 18.5”. Compacto, perfecto para escritorio o segunda pantalla.",
+    "images": [
+      "/assets/img/products/ZTC002/ZTC002-01.webp",
+      "/assets/img/products/ZTC002/ZTC002-02.webp",
+      "/assets/img/products/ZTC002/ZTC002-03.webp"
+    ],
+    "category": "tc"
+  },
+  {
+    "id": "ZTC003",
+    "title": "Diccionario de Inglés Electrónico Casio EW-S4000E (Tiene Parlante, Entrada de Audífonos y Conexión USB Para Cargar Archivos de Texto)",
+    "price": 30000,
+    "condition": "2",
+    "description": "Diccionario electrónico Casio con parlante, entrada para audífonos y conexión USB para cargar textos. Ideal para estudiantes.",
+    "images": [
+      "/assets/img/products/ZTC003/ZTC003-01.webp",
+      "/assets/img/products/ZTC003/ZTC003-02.webp",
+      "/assets/img/products/ZTC003/ZTC003-03.webp",
+      "/assets/img/products/ZTC003/ZTC003-04.webp",
+      "/assets/img/products/ZTC003/ZTC003-05.webp",
+      "/assets/img/products/ZTC003/ZTC003-06.webp",
+      "/assets/img/products/ZTC003/ZTC003-07.webp",
+      "/assets/img/products/ZTC003/ZTC003-08.webp",
+      "/assets/img/products/ZTC003/ZTC003-09.webp",
+      "/assets/img/products/ZTC003/ZTC003-10.webp",
+      "/assets/img/products/ZTC003/ZTC003-11.webp"
+    ],
+    "category": "tc"
+  },
+  {
+    "id": "ZTC004",
+    "title": "Tableta Digitalizadora Wacom Bamboo Pen CTL-470 con Funda Targus",
+    "price": 10000,
+    "condition": "2",
+    "description": "Tableta gráfica Wacom Bamboo Pen CTL-470. Incluye funda Targus. Ideal para diseño, dibujo digital o clases online.",
+    "images": [
+      "/assets/img/products/ZTC004/ZTC004-01.webp",
+      "/assets/img/products/ZTC004/ZTC004-02.webp"
+    ],
+    "category": "tc"
+  },
+  {
+    "id": "ZTC005",
+    "title": "Funda Grande para Tabletas Wacom ACK52702 46x31 cm (Intuos Pro L, Cintiq Pro 16, MobileStudio Pro 16)",
+    "price": 8000,
+    "condition": "1",
+    "description": "Funda original Wacom para tabletas grandes (Intuos Pro L, Cintiq Pro 16, MobileStudio Pro 16). Tamaño 46x31 cm.",
+    "images": [
+      "/assets/img/products/ZTC005/ZTC005-01.webp"
+    ],
+    "category": "tc"
+  },
+  {
+    "id": "ZTC006",
+    "title": "Teclado Bluetooth Recargable (Para Computador y Celular)",
+    "price": 5000,
+    "condition": "2",
+    "description": "Teclado Bluetooth recargable. Compatible con computador, tablet y celular.",
+    "images": [
+      "/assets/img/products/ZTC006/ZTC006-01.webp",
+      "/assets/img/products/ZTC006/ZTC006-02.webp",
+      "/assets/img/products/ZTC006/ZTC006-03.webp"
+    ],
+    "category": "tc"
+  },
+  {
+    "id": "ZTC007",
+    "title": "Teléfono Celular con Radio FM Samsung GT-E1086i (Incluye su Cargador Original)",
+    "price": 4000,
+    "condition": "2",
+    "description": "Teléfono básico Samsung con radio FM. Incluye cargador original. Ideal como radio portátil.",
+    "images": [
+      "/assets/img/products/ZTC007/ZTC007-01.webp",
+      "/assets/img/products/ZTC007/ZTC007-02.webp"
+    ],
+    "category": "tc"
+  },
+  {
+    "id": "ZTC008",
+    "title": "Funda Tablet 10.1\" Leaf",
+    "price": 4000,
+    "condition": "1",
+    "description": "Funda protectora para tablet de 10.1”. Marca Leaf.",
+    "images": [
+      "/assets/img/products/ZTC008/ZTC008-01.webp"
+    ],
+    "category": "tc"
+  },
+  {
+    "id": "ZTC009",
+    "title": "Trípode Para Cámara Soligor WT330A (Altura Max.: 134.5 cm | Altura Min.: 51,5 cm)",
+    "price": 6000,
+    "condition": "2",
+    "description": "Trípode para cámara o celular. Altura máxima 134.5 cm, mínima 51.5 cm. Estable y portátil.",
+    "images": [
+      "/assets/img/products/ZTC009/ZTC009-01.webp",
+      "/assets/img/products/ZTC009/ZTC009-02.webp",
+      "/assets/img/products/ZTC009/ZTC009-03.webp",
+      "/assets/img/products/ZTC009/ZTC009-04.webp",
+      "/assets/img/products/ZTC009/ZTC009-05.webp",
+      "/assets/img/products/ZTC009/ZTC009-06.webp",
+      "/assets/img/products/ZTC009/ZTC009-07.webp",
+      "/assets/img/products/ZTC009/ZTC009-08.webp"
+    ],
+    "category": "tc"
+  },
+  {
+    "id": "ZTC010",
+    "title": "Accesorios Para Cámara de Acción Deportiva GoPro y Accesorios Celular",
+    "price": 4000,
+    "condition": "2",
+    "description": "Set de accesorios para cámara deportiva tipo GoPro y celular. Ideal para grabación y montaje.",
+    "images": [
+      "/assets/img/products/ZTC010/ZTC010-01.webp"
+    ],
+    "category": "tc"
   }
 ]
