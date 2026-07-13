@@ -1,7 +1,24 @@
 async function getProducts() {
-    const response = await fetch('./data/products.json');
-    const data = await response.json();
-    return data;
+    try {
+        const response = await fetch('./data/products.json');
+
+        if (!response.ok) {
+            throw new Error("No se pudo cargar products.json");
+        }
+
+        return await response.json();
+
+    } catch (error) {
+        console.error(error);
+
+        document.getElementById("products-container").innerHTML = `
+            <div class="empty-state">
+                Error al cargar los productos.
+            </div>
+        `;
+
+        return [];
+    }
 }
 
 const menuToggle = document.querySelector('.menu-toggle');
@@ -79,7 +96,10 @@ function createWhatsappLink(product) {
 
 function createProductCard(product) {
 
-    const images = product.images || [product.image];
+    const images =
+        product.images && product.images.length
+            ? product.images
+            : [product.image];
     const total = images.length;
 
     return `
