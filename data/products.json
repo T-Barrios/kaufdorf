@@ -57,38 +57,6 @@
     "category": "cc"
   },
   {
-    "id": "ZCC007",
-    "title": "Tostador Eléctrico Thomas TH-120R 800 watts 6 Niveles de Tostado",
-    "price": 10000,
-    "condition": "3",
-    "description": "Tostador de 800 watts con 6 niveles de tostado. Permite controlar el dorado y lograr tostadas uniformes fácilmente.",
-    "images": [
-      "assets/img/products/ZCC007/ZCC007-01.webp",
-      "assets/img/products/ZCC007/ZCC007-02.webp",
-      "assets/img/products/ZCC007/ZCC007-03.webp",
-      "assets/img/products/ZCC007/ZCC007-04.webp",
-      "assets/img/products/ZCC007/ZCC007-05.webp",
-      "assets/img/products/ZCC007/ZCC007-06.webp",
-      "assets/img/products/ZCC007/ZCC007-07.webp",
-      "assets/img/products/ZCC007/ZCC007-08.webp"
-    ],
-    "category": "cc"
-  },
-  {
-    "id": "ZCC008",
-    "title": "Exprimidor de Jugo Eléctrico 1.2 litros 40 watts Ursus Trotter UT-WETZEL40",
-    "price": 10000,
-    "condition": "3",
-    "description": "Exprimidor eléctrico de 40 watts con jarra de 1.2 L. Ideal para jugos de cítricos con rotación automática y uso simple.",
-    "images": [
-      "assets/img/products/ZCC008/ZCC008-01.webp",
-      "assets/img/products/ZCC008/ZCC008-02.webp",
-      "assets/img/products/ZCC008/ZCC008-03.webp",
-      "assets/img/products/ZCC008/ZCC008-04.webp"
-    ],
-    "category": "cc"
-  },
-  {
     "id": "ZCC009",
     "title": "Licuadora Personal Mini Blender Blanik Bmb044 Color Verde",
     "price": 10000,
@@ -111,21 +79,6 @@
       "assets/img/products/ZCC011/ZCC011-02.webp",
       "assets/img/products/ZCC011/ZCC011-03.webp",
       "assets/img/products/ZCC011/ZCC011-04.webp"
-    ],
-    "category": "cc"
-  },
-  {
-    "id": "ZCC012",
-    "title": "Pesa de Cocina Moulinex",
-    "price": 5000,
-    "condition": "3",
-    "description": "Balanza digital precisa. Permite medir ingredientes con exactitud para recetas y control de porciones.",
-    "images": [
-      "assets/img/products/ZCC012/ZCC012-01.webp",
-      "assets/img/products/ZCC012/ZCC012-02.webp",
-      "assets/img/products/ZCC012/ZCC012-03.webp",
-      "assets/img/products/ZCC012/ZCC012-04.webp",
-      "assets/img/products/ZCC012/ZCC012-05.webp"
     ],
     "category": "cc"
   },
@@ -461,37 +414,6 @@
     "category": "dp"
   },
   {
-    "id": "ZDP033",
-    "title": "Set de 9 Bandas Elásticas de Resistencia (1 de Tela y Las Demás de Látex de Goma)",
-    "price": 5000,
-    "condition": "3",
-    "description": "Bandas elásticas de distintos niveles: incluye 1 banda de tela y varias de látex. Permiten progresión en fuerza, activación muscular y movilidad.",
-    "images": [
-      "assets/img/products/ZDP033/ZDP033-01.webp",
-      "assets/img/products/ZDP033/ZDP033-02.webp",
-      "assets/img/products/ZDP033/ZDP033-03.webp",
-      "assets/img/products/ZDP033/ZDP033-04.webp",
-      "assets/img/products/ZDP033/ZDP033-05.webp",
-      "assets/img/products/ZDP033/ZDP033-06.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP034",
-    "title": "2 Luz y Timbre para Bicicleta Recargable en Forma de Cerdo Celeste y Negro",
-    "price": 5000,
-    "condition": "2",
-    "description": "Set de luz y timbre recargable con diseño compacto. Mejora visibilidad y seguridad al circular. Formato llamativo tipo figura.",
-    "images": [
-      "assets/img/products/ZDP034/ZDP034-01.webp",
-      "assets/img/products/ZDP034/ZDP034-02.webp",
-      "assets/img/products/ZDP034/ZDP034-03.webp",
-      "assets/img/products/ZDP034/ZDP034-04.webp",
-      "assets/img/products/ZDP034/ZDP034-05.webp"
-    ],
-    "category": "dp"
-  },
-  {
     "id": "ZDP037",
     "title": "Caliper Adipómetro Medidor de Grasa Corporal",
     "price": 4000,
@@ -810,17 +732,6 @@
     "category": "dv"
   },
   {
-    "id": "ZDV003",
-    "title": "Cartas Pokemon Originales (Más de 500 Cartas) + 2 Sets de Contadores de Daño + Caja",
-    "price": 20000,
-    "condition": "2",
-    "description": "Lote de más de 500 cartas originales. Incluye 2 sets de contadores de daño y caja para almacenamiento.",
-    "images": [
-      "assets/img/products/ZDV003/ZDV003-01.webp"
-    ],
-    "category": "dv"
-  },
-  {
     "id": "ZDV004",
     "title": "Cartas Yugi-Oh Originales (Más de 200 Cartas) + 100 Protectores de Carta + 2 Deckbox",
     "price": 15000,
@@ -839,17 +750,6 @@
     "description": "Accesorio oficial compatible con Pokémon GO. Permite interactuar con el juego sin usar el celular constantemente.",
     "images": [
       "assets/img/products/ZDV005/ZDV005-01.webp"
-    ],
-    "category": "dv"
-  },
-  {
-    "id": "ZDV006",
-    "title": "2 Joysticks de PlayStation 2 Original + 2 Adaptadores USB para Conectarlos al Computador",
-    "price": 10000,
-    "condition": "3",
-    "description": "2 controles originales de PlayStation 2 con 2 adaptadores USB. Permiten uso en PC o emuladores.",
-    "images": [
-      "assets/img/products/ZDV006/ZDV006-01.webp"
     ],
     "category": "dv"
   },
@@ -897,17 +797,6 @@
     "description": "2 peluches marca Miniso de material suave.",
     "images": [
       "assets/img/products/ZDV010/ZDV010-01.webp"
-    ],
-    "category": "dv"
-  },
-  {
-    "id": "ZDV011",
-    "title": "Set de 5 Juegos Típicos de Madera (3 Emboques, 1 Yoyo y 1 Kendama)",
-    "price": 4000,
-    "condition": "1",
-    "description": "Set de juegos tradicionales: 3 emboques, 1 yoyo y 1 kendama. Favorecen coordinación y destreza manual.",
-    "images": [
-      "assets/img/products/ZDV011/ZDV011-01.webp"
     ],
     "category": "dv"
   },
@@ -1446,50 +1335,6 @@
     "category": "ms"
   },
   {
-    "id": "ZMS016",
-    "title": "Cable de Micrófono XLR Hembra a Jack 6.3 mm 5 metros Kirlin",
-    "price": 4000,
-    "condition": "2",
-    "description": "Cable de micrófono balanceado. Convierte XLR hembra a jack 6.3 mm (plug). Marca Kirlin, conocida por cables confiables. Largo 5 metros.",
-    "images": [
-      "assets/img/products/ZMS016/ZMS016-01.webp"
-    ],
-    "category": "ms"
-  },
-  {
-    "id": "ZMS017",
-    "title": "Cable de Micrófono XLR Hembra a XLR Macho (3 Pines) 4 metros 50 cm",
-    "price": 4000,
-    "condition": "2",
-    "description": "Cable XLR de 3 pines para micrófonos. Transmisión balanceada que reduce ruido. Largo aproximado 4.5 metros.",
-    "images": [
-      "assets/img/products/ZMS017/ZMS017-01.webp"
-    ],
-    "category": "ms"
-  },
-  {
-    "id": "ZMS018",
-    "title": "Cable 1 XLR Macho a 2 XLR Hembra 3 metros",
-    "price": 4000,
-    "condition": "2",
-    "description": "Cable divisor (splitter) que permite enviar una señal XLR a dos entradas. Útil en configuraciones de audio o grabación. Largo 3 metros.",
-    "images": [
-      "assets/img/products/ZMS018/ZMS018-01.webp"
-    ],
-    "category": "ms"
-  },
-  {
-    "id": "ZMS019",
-    "title": "Cable Guitarra / Bajo Jack 6.3 mm Macho a Jack 6.3 mm Macho 5 metros",
-    "price": 4000,
-    "condition": "2",
-    "description": "Cable mono para guitarra o bajo. Conectores estándar 6.3 mm. Adecuado para amplificadores e instrumentos. Largo 5 metros.",
-    "images": [
-      "assets/img/products/ZMS019/ZMS019-01.webp"
-    ],
-    "category": "ms"
-  },
-  {
     "id": "ZMS020",
     "title": "Cuerdas Guitarra Electrica .009 - .042 Queen + Correa + Herramienta 3 en 1 Cortador, Enrrollador y Extractor (Nuevos Sin Uso)",
     "price": 5000,
@@ -1497,17 +1342,6 @@
     "description": "Set de cuerdas calibre .009–.042 (tensión ligera). Incluye correa y herramienta 3 en 1 (cortador, enrollador y extractor de pines). Todo nuevo sin uso.",
     "images": [
       "assets/img/products/ZMS020/ZMS020-01.webp"
-    ],
-    "category": "ms"
-  },
-  {
-    "id": "ZMS021",
-    "title": "Cable de Audio RCA a 3.5 mm 3 metros",
-    "price": 2000,
-    "condition": "2",
-    "description": "Cable estéreo que convierte RCA (L/R) a jack 3.5 mm. Permite conectar equipos de audio a parlantes, PC o sistemas auxiliares. Largo 3 metros.",
-    "images": [
-      "assets/img/products/ZMS021/ZMS021-01.webp"
     ],
     "category": "ms"
   },
