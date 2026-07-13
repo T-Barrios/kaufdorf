@@ -115,13 +115,13 @@ function createProductCard(product) {
             </div>
 
             <div class="image-controls">
-                <button class="nav-btn prev">🡰</button>
+                <button class="nav-btn prev">❮</button>
 
                 <div class="dots">
                     ${createDots(total)}
                 </div>
 
-                <button class="nav-btn next">🡲</button>
+                <button class="nav-btn next">❯</button>
             </div>
 
             <h3 class="title">${product.title}</h3>
