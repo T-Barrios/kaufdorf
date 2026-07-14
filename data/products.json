@@ -414,17 +414,6 @@
     "category": "dp"
   },
   {
-    "id": "ZDP037",
-    "title": "Caliper Adipómetro Medidor de Grasa Corporal",
-    "price": 4000,
-    "condition": "1",
-    "description": "Medidor manual de pliegues cutáneos. Permite estimar porcentaje de grasa corporal mediante medición directa de la piel. Compacto y fácil de usar.",
-    "images": [
-      "assets/img/products/ZDP037/ZDP037-01.webp"
-    ],
-    "category": "dp"
-  },
-  {
     "id": "ZDP038",
     "title": "2 Pares de Guantes para Bicicleta Decathlon Triban (Talla XS)",
     "price": 4000,
@@ -507,17 +496,6 @@
     "images": [
       "assets/img/products/ZDP045/ZDP045-01.webp",
       "assets/img/products/ZDP045/ZDP045-02.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP046",
-    "title": "2 Monoculares Senderismo 6x con Correa Quechua",
-    "price": 3000,
-    "condition": "2",
-    "description": "Monoculares compactos con aumento 6x. Incluyen correa, adecuados para senderismo y observación básica en terreno.",
-    "images": [
-      "assets/img/products/ZDP046/ZDP046-01.webp"
     ],
     "category": "dp"
   },
@@ -640,17 +618,6 @@
     "images": [
       "assets/img/products/ZDP059/ZDP059-01.webp",
       "assets/img/products/ZDP059/ZDP059-02.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP060",
-    "title": "Mancuernas de 2.5 kilos Vinilo",
-    "price": 3000,
-    "condition": "3",
-    "description": "Par de mancuernas recubiertas en vinilo. Superficie antideslizante y fácil de limpiar. Peso fijo de 2.5 kilos cada una.",
-    "images": [
-      "assets/img/products/ZDP060/ZDP060-01.webp"
     ],
     "category": "dp"
   },
@@ -945,17 +912,6 @@
     "category": "hg"
   },
   {
-    "id": "ZHG014",
-    "title": "2 Pares de Ganchos de Suspensión Pared / Techo Para Yoga / Box / Trx",
-    "price": 6000,
-    "condition": "1",
-    "description": "Soportes metálicos para instalación en muro o techo. Permiten colgar implementos como TRX, saco de box o anillas. Estructura resistente para carga.",
-    "images": [
-      "assets/img/products/ZHG014/ZHG014-01.webp"
-    ],
-    "category": "hg"
-  },
-  {
     "id": "ZHG016",
     "title": "Multímetro Tester de corriente",
     "price": 5000,
@@ -1043,19 +999,6 @@
     "description": "Set de alfileres metálicos tipo gancho. Útiles para costura, fijación o manualidades.",
     "images": [
       "assets/img/products/ZHG022/ZHG022-01.webp"
-    ],
-    "category": "hg"
-  },
-  {
-    "id": "ZHG023",
-    "title": "Ampolleta Led 40 watts 2700 k Ikea Solhetta Led",
-    "price": 1000,
-    "condition": "2",
-    "description": "Ampolleta LED de luz cálida (2700K). Bajo consumo y larga duración. Compatible con uso doméstico estándar.",
-    "images": [
-      "assets/img/products/ZHG023/ZHG023-01.webp",
-      "assets/img/products/ZHG023/ZHG023-02.webp",
-      "assets/img/products/ZHG023/ZHG023-03.webp"
     ],
     "category": "hg"
   },
@@ -1214,24 +1157,6 @@
     "category": "lk"
   },
   {
-    "id": "ZMS003",
-    "title": "Guitarra Eléctrica Behringer + Amplificador 15 watts Behringer + Funda + Atril + Correa",
-    "price": 50000,
-    "condition": "3",
-    "description": "Guitarra eléctrica Behringer con amplificador de 15W. Incluye funda, atril y correa. Configuración completa para tocar desde el primer día.",
-    "images": [
-      "assets/img/products/ZMS003/ZMS003-01.webp",
-      "assets/img/products/ZMS003/ZMS003-02.webp",
-      "assets/img/products/ZMS003/ZMS003-03.webp",
-      "assets/img/products/ZMS003/ZMS003-04.webp",
-      "assets/img/products/ZMS003/ZMS003-05.webp",
-      "assets/img/products/ZMS003/ZMS003-06.webp",
-      "assets/img/products/ZMS003/ZMS003-07.webp",
-      "assets/img/products/ZMS003/ZMS003-08.webp"
-    ],
-    "category": "ms"
-  },
-  {
     "id": "ZMS005",
     "title": "Bajo Eléctrico Steeler + Funda + Atril + Correa",
     "price": 30000,
@@ -1298,17 +1223,6 @@
     "images": [
       "assets/img/products/ZMS011/ZMS011-01.webp",
       "assets/img/products/ZMS011/ZMS011-02.webp"
-    ],
-    "category": "ms"
-  },
-  {
-    "id": "ZMS012",
-    "title": "Mini Conga Shaker Percusión LP",
-    "price": 1000,
-    "condition": "2",
-    "description": "Instrumento de percusión tipo shaker con diseño de mini conga. Produce sonido rítmico claro, fácil de usar.",
-    "images": [
-      "assets/img/products/ZMS012/ZMS012-01.webp"
     ],
     "category": "ms"
   },
