@@ -131,24 +131,6 @@
     "category": "dp"
   },
   {
-    "id": "ZDP003",
-    "title": "Set de Discos y Mancuernas 65 kilos en Total (20 Discos de Hierro: 37 kilos | 12 Discos Cementados: 19 kilos | 6 Mancuernas: 9 kilos)",
-    "price": 75000,
-    "condition": "3",
-    "description": "Set completo de pesas (65 kilos en total). Incluye discos de hierro y cementados más mancuernas. Ideal para entrenamiento de fuerza en casa.",
-    "images": [
-      "assets/img/products/ZDP003/ZDP003-01.webp",
-      "assets/img/products/ZDP003/ZDP003-02.webp",
-      "assets/img/products/ZDP003/ZDP003-03.webp",
-      "assets/img/products/ZDP003/ZDP003-04.webp",
-      "assets/img/products/ZDP003/ZDP003-05.webp",
-      "assets/img/products/ZDP003/ZDP003-06.webp",
-      "assets/img/products/ZDP003/ZDP003-07.webp",
-      "assets/img/products/ZDP003/ZDP003-08.webp"
-    ],
-    "category": "dp"
-  },
-  {
     "id": "ZDP008",
     "title": "Arco Recurvo Initech con Cuerda + 3 Flechas",
     "price": 50000,
@@ -160,25 +142,6 @@
       "assets/img/products/ZDP008/ZDP008-03.webp",
       "assets/img/products/ZDP008/ZDP008-04.webp",
       "assets/img/products/ZDP008/ZDP008-05.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP013",
-    "title": "Pull Up Bar 500 Decathlon con Set de 5 Bandas Elásticas de Distintos Grosores",
-    "price": 15000,
-    "condition": "3",
-    "description": "Barra de dominadas resistente con set de 5 bandas elásticas de distintos niveles. Perfecto para entrenamiento funcional y progresión en fuerza.",
-    "images": [
-      "assets/img/products/ZDP013/ZDP013-01.webp",
-      "assets/img/products/ZDP013/ZDP013-02.webp",
-      "assets/img/products/ZDP013/ZDP013-03.webp",
-      "assets/img/products/ZDP013/ZDP013-04.webp",
-      "assets/img/products/ZDP013/ZDP013-05.webp",
-      "assets/img/products/ZDP013/ZDP013-06.webp",
-      "assets/img/products/ZDP013/ZDP013-07.webp",
-      "assets/img/products/ZDP013/ZDP013-08.webp",
-      "assets/img/products/ZDP013/ZDP013-09.webp"
     ],
     "category": "dp"
   },
@@ -195,22 +158,6 @@
       "assets/img/products/ZDP014/ZDP014-04.webp",
       "assets/img/products/ZDP014/ZDP014-05.webp",
       "assets/img/products/ZDP014/ZDP014-06.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP016",
-    "title": "2 Raquetas de Tenis + Funda + 4 Pelotas + 2 Antivibradores",
-    "price": 15000,
-    "condition": "2",
-    "description": "Set de 2 raquetas con funda y 4 pelotas. Ideal para juego recreativo o iniciación en tenis.",
-    "images": [
-      "assets/img/products/ZDP016/ZDP016-01.webp",
-      "assets/img/products/ZDP016/ZDP016-02.webp",
-      "assets/img/products/ZDP016/ZDP016-03.webp",
-      "assets/img/products/ZDP016/ZDP016-04.webp",
-      "assets/img/products/ZDP016/ZDP016-05.webp",
-      "assets/img/products/ZDP016/ZDP016-06.webp"
     ],
     "category": "dp"
   },
@@ -369,20 +316,6 @@
       "assets/img/products/ZDP029/ZDP029-03.webp",
       "assets/img/products/ZDP029/ZDP029-04.webp",
       "assets/img/products/ZDP029/ZDP029-05.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP030",
-    "title": "Disco de Equilibrio de Madera",
-    "price": 5000,
-    "condition": "3",
-    "description": "Plataforma de balance para entrenamiento de estabilidad y coordinación. Activa core y mejora control corporal. Base de madera resistente.",
-    "images": [
-      "assets/img/products/ZDP030/ZDP030-01.webp",
-      "assets/img/products/ZDP030/ZDP030-02.webp",
-      "assets/img/products/ZDP030/ZDP030-03.webp",
-      "assets/img/products/ZDP030/ZDP030-04.webp"
     ],
     "category": "dp"
   },
@@ -889,17 +822,6 @@
     "category": "hg"
   },
   {
-    "id": "ZHG012",
-    "title": "Aspiradora de Mano Portátil Recargable Xiaomi Mi Vacuum Cleaner Mini",
-    "price": 10000,
-    "condition": "3",
-    "description": "Aspiradora portátil recargable, compacta y ligera. Diseñada para limpieza rápida en escritorio, auto o espacios pequeños. Se recomienda cambiar el filtro HEPA.",
-    "images": [
-      "assets/img/products/ZHG012/ZHG012-01.webp"
-    ],
-    "category": "hg"
-  },
-  {
     "id": "ZHG013",
     "title": "2 Barras Mural Para Ropa Extensible Ikea 60-90 cm",
     "price": 6000,
@@ -1157,48 +1079,24 @@
     "category": "lk"
   },
   {
-    "id": "ZMS005",
-    "title": "Bajo Eléctrico Steeler + Funda + Atril + Correa",
-    "price": 30000,
-    "condition": "3",
-    "description": "Bajo eléctrico marca Steeler. Incluye funda, atril y correa. Configuración funcional para práctica y ensayo.",
-    "images": [
-      "assets/img/products/ZMS005/ZMS005-01.webp",
-      "assets/img/products/ZMS005/ZMS005-02.webp",
-      "assets/img/products/ZMS005/ZMS005-03.webp",
-      "assets/img/products/ZMS005/ZMS005-04.webp",
-      "assets/img/products/ZMS005/ZMS005-05.webp",
-      "assets/img/products/ZMS005/ZMS005-06.webp"
-    ],
-    "category": "ms"
-  },
-  {
-    "id": "ZMS006",
-    "title": "Micrófono Dinámico Vocal Audio Technica MB1K + Atril + Pinza",
-    "price": 30000,
-    "condition": "3",
-    "description": "Micrófono dinámico vocal con patrón cardioide. Reduce ruido ambiente y es adecuado para voz en vivo. Incluye atril y pinza.",
-    "images": [
-      "assets/img/products/ZMS006/ZMS006-01.webp",
-      "assets/img/products/ZMS006/ZMS006-02.webp"
-    ],
-    "category": "ms"
-  },
-  {
-    "id": "ZMS007",
-    "title": "Batería Musical Portátil Flexible Baldassare",
-    "price": 20000,
+    "id": "ZMS001",
+    "title": "Batería Electrónica Carlsbro CSD130",
+    "price": 230000,
     "condition": "2",
-    "description": "Batería electrónica flexible de silicona. Permite practicar con audífonos y ocupa poco espacio. Diseño portátil.",
+    "description": "Kit de 8 piezas con rack compacto, pads silenciosos, entrada AUX y salida para audífonos, perfecta para practicar en casa sin hacer ruido. Incluye metrónomo, función de grabación y conectividad USB-MIDI",
     "images": [
-      "assets/img/products/ZMS007/ZMS007-01.webp",
-      "assets/img/products/ZMS007/ZMS007-02.webp",
-      "assets/img/products/ZMS007/ZMS007-03.webp",
-      "assets/img/products/ZMS007/ZMS007-04.webp",
-      "assets/img/products/ZMS007/ZMS007-05.webp",
-      "assets/img/products/ZMS007/ZMS007-06.webp",
-      "assets/img/products/ZMS007/ZMS007-07.webp",
-      "assets/img/products/ZMS007/ZMS007-08.webp"
+      "assets/img/products/ZMS001/ZMS001-01.webp",
+      "assets/img/products/ZMS001/ZMS001-02.webp",
+      "assets/img/products/ZMS001/ZMS001-03.webp",
+      "assets/img/products/ZMS001/ZMS001-04.webp",
+      "assets/img/products/ZMS001/ZMS001-05.webp",
+      "assets/img/products/ZMS001/ZMS001-06.webp",
+      "assets/img/products/ZMS001/ZMS001-07.webp",
+      "assets/img/products/ZMS001/ZMS001-08.webp",
+      "assets/img/products/ZMS001/ZMS001-09.webp",
+      "assets/img/products/ZMS001/ZMS001-10.webp",
+      "assets/img/products/ZMS001/ZMS001-11.webp",
+      "assets/img/products/ZMS001/ZMS001-12.webp"
     ],
     "category": "ms"
   },
@@ -1572,27 +1470,6 @@
       "assets/img/products/ZTC002/ZTC002-01.webp",
       "assets/img/products/ZTC002/ZTC002-02.webp",
       "assets/img/products/ZTC002/ZTC002-03.webp"
-    ],
-    "category": "tc"
-  },
-  {
-    "id": "ZTC003",
-    "title": "Diccionario de Inglés Electrónico Casio EW-S4000E (Tiene Parlante, Entrada de Audífonos y Conexión USB Para Cargar Archivos de Texto)",
-    "price": 30000,
-    "condition": "2",
-    "description": "Diccionario electrónico Casio con parlante, entrada para audífonos y conexión USB para cargar textos. Ideal para estudiantes.",
-    "images": [
-      "assets/img/products/ZTC003/ZTC003-01.webp",
-      "assets/img/products/ZTC003/ZTC003-02.webp",
-      "assets/img/products/ZTC003/ZTC003-03.webp",
-      "assets/img/products/ZTC003/ZTC003-04.webp",
-      "assets/img/products/ZTC003/ZTC003-05.webp",
-      "assets/img/products/ZTC003/ZTC003-06.webp",
-      "assets/img/products/ZTC003/ZTC003-07.webp",
-      "assets/img/products/ZTC003/ZTC003-08.webp",
-      "assets/img/products/ZTC003/ZTC003-09.webp",
-      "assets/img/products/ZTC003/ZTC003-10.webp",
-      "assets/img/products/ZTC003/ZTC003-11.webp"
     ],
     "category": "tc"
   },
