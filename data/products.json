@@ -1510,18 +1510,6 @@
     "category": "tc"
   },
   {
-    "id": "ZTC007",
-    "title": "Teléfono Celular con Radio FM Samsung GT-E1086i (Incluye su Cargador Original)",
-    "price": 4000,
-    "condition": "2",
-    "description": "Teléfono básico Samsung con radio FM. Incluye cargador original. Ideal como radio portátil.",
-    "images": [
-      "assets/img/products/ZTC007/ZTC007-01.webp",
-      "assets/img/products/ZTC007/ZTC007-02.webp"
-    ],
-    "category": "tc"
-  },
-  {
     "id": "ZTC008",
     "title": "Funda Tablet 10.1\" Leaf",
     "price": 4000,
