@@ -146,18 +146,18 @@
     "category": "dp"
   },
   {
-    "id": "ZDP014",
-    "title": "Bosu Ball con 2 Pelotas de Yoga",
+    "id": "ZDP016",
+    "title": "2 Raquetas de Tenis + Funda + 4 Pelotas + 2 Antivibradores",
     "price": 15000,
     "condition": "2",
-    "description": "Plataforma de equilibrio tipo Bosu para core y estabilidad. Incluye pelotas de yoga para complementar rutinas de fuerza y movilidad.",
+    "description": "Set de 2 raquetas con funda y 4 pelotas. Ideal para juego recreativo o iniciación en tenis.",
     "images": [
-      "assets/img/products/ZDP014/ZDP014-01.webp",
-      "assets/img/products/ZDP014/ZDP014-02.webp",
-      "assets/img/products/ZDP014/ZDP014-03.webp",
-      "assets/img/products/ZDP014/ZDP014-04.webp",
-      "assets/img/products/ZDP014/ZDP014-05.webp",
-      "assets/img/products/ZDP014/ZDP014-06.webp"
+      "assets/img/products/ZDP016/ZDP016-01.webp",
+      "assets/img/products/ZDP016/ZDP016-02.webp",
+      "assets/img/products/ZDP016/ZDP016-03.webp",
+      "assets/img/products/ZDP016/ZDP016-04.webp",
+      "assets/img/products/ZDP016/ZDP016-05.webp",
+      "assets/img/products/ZDP016/ZDP016-06.webp"
     ],
     "category": "dp"
   },
@@ -700,20 +700,6 @@
       "assets/img/products/ZDV015/ZDV015-02.webp"
     ],
     "category": "dv"
-  },
-  {
-    "id": "ZHG001",
-    "title": "Cama Apilable de Pino 80x200 cm Ikea UTÅKER",
-    "price": 100000,
-    "condition": "3",
-    "description": "Cama de pino macizo que puede usarse individual o apilada. Permite configurar cama doble o separar según necesidad.",
-    "images": [
-      "assets/img/products/ZHG001/ZHG001-01.webp",
-      "assets/img/products/ZHG001/ZHG001-02.webp",
-      "assets/img/products/ZHG001/ZHG001-03.webp",
-      "assets/img/products/ZHG001/ZHG001-04.webp"
-    ],
-    "category": "hg"
   },
   {
     "id": "ZHG003",
