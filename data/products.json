@@ -643,17 +643,6 @@
     "category": "dv"
   },
   {
-    "id": "ZDV005",
-    "title": "Pulsera Pokemon Go Nintendo Original (Incluye Accesorio Para Usarlo Como Broche)",
-    "price": 10000,
-    "condition": "2",
-    "description": "Accesorio oficial compatible con Pokémon GO. Permite interactuar con el juego sin usar el celular constantemente.",
-    "images": [
-      "assets/img/products/ZDV005/ZDV005-01.webp"
-    ],
-    "category": "dv"
-  },
-  {
     "id": "ZDV007",
     "title": "3 Peluches de Los Osos Escandalosos (Polar, Panda y Pardo)",
     "price": 5000,
@@ -686,17 +675,6 @@
     "description": "Lote de más de 350 stickers de distintas temáticas (anime, música, series). Variedad amplia para uso decorativo.",
     "images": [
       "assets/img/products/ZDV009/ZDV009-01.webp"
-    ],
-    "category": "dv"
-  },
-  {
-    "id": "ZDV010",
-    "title": "2 Peluches de Pingüino Celeste Miniso",
-    "price": 3000,
-    "condition": "3",
-    "description": "2 peluches marca Miniso de material suave.",
-    "images": [
-      "assets/img/products/ZDV010/ZDV010-01.webp"
     ],
     "category": "dv"
   },
@@ -1005,18 +983,6 @@
       "assets/img/products/ZHG033/ZHG033-02.webp"
     ],
     "category": "hg"
-  },
-  {
-    "id": "ZLK002",
-    "title": "Plancha de Viaje Para Pelo Pichara",
-    "price": 5000,
-    "condition": "2",
-    "description": "Plancha compacta para el cabello. Tamaño portátil, adecuada para viajes o retoques rápidos. Calentamiento rápido.",
-    "images": [
-      "assets/img/products/ZLK002/ZLK002-01.webp",
-      "assets/img/products/ZLK002/ZLK002-02.webp"
-    ],
-    "category": "lk"
   },
   {
     "id": "ZLK003",
