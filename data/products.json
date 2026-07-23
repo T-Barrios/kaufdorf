@@ -46,17 +46,6 @@
     "category": "cc"
   },
   {
-    "id": "ZCC006",
-    "title": "Encimera de Inducción Portátil 1 Zona Ikea Tillreda",
-    "price": 25000,
-    "condition": "3",
-    "description": "Placa portátil de inducción de 1 zona. Calienta rápido, eficiente y segura (solo funciona con ollas compatibles). Ideal para espacios pequeños o uso móvil.",
-    "images": [
-      "assets/img/products/ZCC006/ZCC006-01.webp"
-    ],
-    "category": "cc"
-  },
-  {
     "id": "ZCC009",
     "title": "Licuadora Personal Mini Blender Blanik Bmb044 Color Verde",
     "price": 10000,
@@ -146,22 +135,6 @@
     "category": "dp"
   },
   {
-    "id": "ZDP014",
-    "title": "Bosu Ball con 2 Pelotas de Yoga",
-    "price": 15000,
-    "condition": "2",
-    "description": "Plataforma de equilibrio tipo Bosu para core y estabilidad. Incluye pelotas de yoga para complementar rutinas de fuerza y movilidad.",
-    "images": [
-      "assets/img/products/ZDP014/ZDP014-01.webp",
-      "assets/img/products/ZDP014/ZDP014-02.webp",
-      "assets/img/products/ZDP014/ZDP014-03.webp",
-      "assets/img/products/ZDP014/ZDP014-04.webp",
-      "assets/img/products/ZDP014/ZDP014-05.webp",
-      "assets/img/products/ZDP014/ZDP014-06.webp"
-    ],
-    "category": "dp"
-  },
-  {
     "id": "ZDP017",
     "title": "Palo de Golf con 4 Pelotas",
     "price": 10000,
@@ -177,18 +150,6 @@
     "category": "dp"
   },
   {
-    "id": "ZDP018",
-    "title": "Limpiador de Bicicleta Muc-Off (Nuevo Sin Abrir)",
-    "price": 10000,
-    "condition": "1",
-    "description": "Limpiador especializado para bicicletas, elimina suciedad sin dañar componentes. Producto nuevo sin abrir. Ideal para mantenimiento.",
-    "images": [
-      "assets/img/products/ZDP018/ZDP018-01.webp",
-      "assets/img/products/ZDP018/ZDP018-02.webp"
-    ],
-    "category": "dp"
-  },
-  {
     "id": "ZDP019",
     "title": "2 Pares de Vendas de Box 3 metros Aibeijian",
     "price": 10000,
@@ -199,44 +160,6 @@
       "assets/img/products/ZDP019/ZDP019-02.webp",
       "assets/img/products/ZDP019/ZDP019-03.webp",
       "assets/img/products/ZDP019/ZDP019-04.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP020",
-    "title": "Anillas de Calistenia / Gimnasia",
-    "price": 10000,
-    "condition": "2",
-    "description": "Anillas de entrenamiento con correas ajustables. Permiten trabajar fuerza funcional (dominadas, fondos, core) con alta activación muscular y control corporal.",
-    "images": [
-      "assets/img/products/ZDP020/ZDP020-01.webp",
-      "assets/img/products/ZDP020/ZDP020-02.webp",
-      "assets/img/products/ZDP020/ZDP020-03.webp",
-      "assets/img/products/ZDP020/ZDP020-04.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP021",
-    "title": "4 Paletas de Ping Pong con 9 Pelotas",
-    "price": 10000,
-    "condition": "2",
-    "description": "Set de 4 paletas con revestimiento de goma y 9 pelotas. Proporcionan control y velocidad balanceada para juego recreativo.",
-    "images": [
-      "assets/img/products/ZDP021/ZDP021-01.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP022",
-    "title": "3 Fundas Impermeables Anti-Polvo para Bicicleta o Moto",
-    "price": 10000,
-    "condition": "2",
-    "description": "Cubiertas protectoras contra lluvia, polvo y sol. Ayudan a preservar componentes y pintura en exteriores. Material liviano y fácil de instalar.",
-    "images": [
-      "assets/img/products/ZDP022/ZDP022-01.webp",
-      "assets/img/products/ZDP022/ZDP022-02.webp",
-      "assets/img/products/ZDP022/ZDP022-03.webp"
     ],
     "category": "dp"
   },
@@ -320,33 +243,6 @@
     "category": "dp"
   },
   {
-    "id": "ZDP031",
-    "title": "Lubricante de Cadenas de Bicicleta WD-40 Dry 118 ml (Nunca Se Usó)",
-    "price": 5000,
-    "condition": "1",
-    "description": "Lubricante seco para cadenas de bicicleta. Reduce fricción sin atraer polvo, recomendado para condiciones secas. Nunca usado.",
-    "images": [
-      "assets/img/products/ZDP031/ZDP031-01.webp",
-      "assets/img/products/ZDP031/ZDP031-02.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP032",
-    "title": "Rueda para Abdominales + Barra Para Push Ups + Pelota de Entrenamiento de Box Para Reflejos",
-    "price": 5000,
-    "condition": "2",
-    "description": "Kit funcional que incluye rueda abdominal, barras para flexiones y pelota de reflejos. Permite trabajar core, tren superior y coordinación.",
-    "images": [
-      "assets/img/products/ZDP032/ZDP032-01.webp",
-      "assets/img/products/ZDP032/ZDP032-02.webp",
-      "assets/img/products/ZDP032/ZDP032-03.webp",
-      "assets/img/products/ZDP032/ZDP032-04.webp",
-      "assets/img/products/ZDP032/ZDP032-05.webp"
-    ],
-    "category": "dp"
-  },
-  {
     "id": "ZDP038",
     "title": "2 Pares de Guantes para Bicicleta Decathlon Triban (Talla XS)",
     "price": 4000,
@@ -382,20 +278,6 @@
     "category": "dp"
   },
   {
-    "id": "ZDP042",
-    "title": "Rodilleras de Vóleibol Decathlon Kipsta",
-    "price": 3000,
-    "condition": "3",
-    "description": "Rodilleras acolchadas diseñadas para impactos en suelo. Ajuste elástico que permite movilidad y estabilidad durante el juego.",
-    "images": [
-      "assets/img/products/ZDP042/ZDP042-01.webp",
-      "assets/img/products/ZDP042/ZDP042-02.webp",
-      "assets/img/products/ZDP042/ZDP042-03.webp",
-      "assets/img/products/ZDP042/ZDP042-04.webp"
-    ],
-    "category": "dp"
-  },
-  {
     "id": "ZDP043",
     "title": "Muñequeras Para Patines / Skate Decathlon Oxelo",
     "price": 3000,
@@ -417,18 +299,6 @@
     "description": "Botella reutilizable de acero metálico. Resistente, mantiene temperatura por más tiempo y apta para uso diario.",
     "images": [
       "assets/img/products/ZDP044/ZDP044-01.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP045",
-    "title": "2 Patos Biker para Bicicleta",
-    "price": 3000,
-    "condition": "2",
-    "description": "Accesorios decorativos tipo “rubber duck” para bicicleta. Se fijan al manubrio, añadiendo visibilidad y estilo.",
-    "images": [
-      "assets/img/products/ZDP045/ZDP045-01.webp",
-      "assets/img/products/ZDP045/ZDP045-02.webp"
     ],
     "category": "dp"
   },
@@ -555,20 +425,6 @@
     "category": "dp"
   },
   {
-    "id": "ZDP061",
-    "title": "Lentes Fotocromáticos Deportivos Ciclismo Running (Negro)",
-    "price": 5000,
-    "condition": "2",
-    "description": "Lentes con ajuste automático a la luz (fotocromáticos). Mejoran visibilidad en cambios de iluminación durante ciclismo o running.",
-    "images": [
-      "assets/img/products/ZDP061/ZDP061-01.webp",
-      "assets/img/products/ZDP061/ZDP061-02.webp",
-      "assets/img/products/ZDP061/ZDP061-03.webp",
-      "assets/img/products/ZDP061/ZDP061-04.webp"
-    ],
-    "category": "dp"
-  },
-  {
     "id": "ZDP062",
     "title": "Lentes Fotocromáticos Deportivos Ciclismo Running (Negro con Rojo)",
     "price": 5000,
@@ -632,28 +488,6 @@
     "category": "dv"
   },
   {
-    "id": "ZDV004",
-    "title": "Cartas Yugi-Oh Originales (Más de 200 Cartas) + 100 Protectores de Carta + 2 Deckbox",
-    "price": 15000,
-    "condition": "2",
-    "description": "Más de 200 cartas originales. Incluye 100 protectores y 2 deckbox para organización y cuidado.",
-    "images": [
-      "assets/img/products/ZDV004/ZDV004-01.webp"
-    ],
-    "category": "dv"
-  },
-  {
-    "id": "ZDV005",
-    "title": "Pulsera Pokemon Go Nintendo Original (Incluye Accesorio Para Usarlo Como Broche)",
-    "price": 10000,
-    "condition": "2",
-    "description": "Accesorio oficial compatible con Pokémon GO. Permite interactuar con el juego sin usar el celular constantemente.",
-    "images": [
-      "assets/img/products/ZDV005/ZDV005-01.webp"
-    ],
-    "category": "dv"
-  },
-  {
     "id": "ZDV007",
     "title": "3 Peluches de Los Osos Escandalosos (Polar, Panda y Pardo)",
     "price": 5000,
@@ -663,51 +497,6 @@
       "assets/img/products/ZDV007/ZDV007-01.webp",
       "assets/img/products/ZDV007/ZDV007-02.webp",
       "assets/img/products/ZDV007/ZDV007-03.webp"
-    ],
-    "category": "dv"
-  },
-  {
-    "id": "ZDV008",
-    "title": "Lavaplatos de Juguete con Agua en Circulación a Pilas Para Niños (Incluye Todos sus Accesorios Originales y Pilas)",
-    "price": 5000,
-    "condition": "1",
-    "description": "Lavaplatos infantil con sistema de agua en circulación (a pilas). Incluye accesorios originales. Simula uso real.",
-    "images": [
-      "assets/img/products/ZDV008/ZDV008-01.webp",
-      "assets/img/products/ZDV008/ZDV008-02.webp"
-    ],
-    "category": "dv"
-  },
-  {
-    "id": "ZDV009",
-    "title": "Más de 350 Stickers (BTS, Pokemon, Nezuko, Los Simpsons, Rick y Morty, Attack on Titan, etc.)",
-    "price": 4000,
-    "condition": "1",
-    "description": "Lote de más de 350 stickers de distintas temáticas (anime, música, series). Variedad amplia para uso decorativo.",
-    "images": [
-      "assets/img/products/ZDV009/ZDV009-01.webp"
-    ],
-    "category": "dv"
-  },
-  {
-    "id": "ZDV010",
-    "title": "2 Peluches de Pingüino Celeste Miniso",
-    "price": 3000,
-    "condition": "3",
-    "description": "2 peluches marca Miniso de material suave.",
-    "images": [
-      "assets/img/products/ZDV010/ZDV010-01.webp"
-    ],
-    "category": "dv"
-  },
-  {
-    "id": "ZDV012",
-    "title": "Set de 4 Figuras de My Little Pony Original (Applejack, Zecora, Applebloom, Lotus Blossom)",
-    "price": 4000,
-    "condition": "2",
-    "description": "Set original con 4 personajes: Applejack, Zecora, Applebloom y Lotus Blossom. Figuras coleccionables.",
-    "images": [
-      "assets/img/products/ZDV012/ZDV012-01.webp"
     ],
     "category": "dv"
   },
@@ -722,20 +511,6 @@
       "assets/img/products/ZDV015/ZDV015-02.webp"
     ],
     "category": "dv"
-  },
-  {
-    "id": "ZHG001",
-    "title": "Cama Apilable de Pino 80x200 cm Ikea UTÅKER",
-    "price": 100000,
-    "condition": "3",
-    "description": "Cama de pino macizo que puede usarse individual o apilada. Permite configurar cama doble o separar según necesidad.",
-    "images": [
-      "assets/img/products/ZHG001/ZHG001-01.webp",
-      "assets/img/products/ZHG001/ZHG001-02.webp",
-      "assets/img/products/ZHG001/ZHG001-03.webp",
-      "assets/img/products/ZHG001/ZHG001-04.webp"
-    ],
-    "category": "hg"
   },
   {
     "id": "ZHG003",
@@ -798,26 +573,6 @@
       "assets/img/products/ZHG008/ZHG008-06.webp",
       "assets/img/products/ZHG008/ZHG008-07.webp",
       "assets/img/products/ZHG008/ZHG008-08.webp"
-    ],
-    "category": "hg"
-  },
-  {
-    "id": "ZHG011",
-    "title": "2 Mesas Para Cama / Sofá Plegables con Altura Regulable (Cada Mesa Aguanta 22.67 kilos)",
-    "price": 10000,
-    "condition": "2",
-    "description": "Mesas auxiliares plegables con altura ajustable. Se adaptan para uso en cama, sofá o trabajo portátil. Fácil almacenamiento.",
-    "images": [
-      "assets/img/products/ZHG011/ZHG011-01.webp",
-      "assets/img/products/ZHG011/ZHG011-02.webp",
-      "assets/img/products/ZHG011/ZHG011-03.webp",
-      "assets/img/products/ZHG011/ZHG011-04.webp",
-      "assets/img/products/ZHG011/ZHG011-05.webp",
-      "assets/img/products/ZHG011/ZHG011-06.webp",
-      "assets/img/products/ZHG011/ZHG011-07.webp",
-      "assets/img/products/ZHG011/ZHG011-08.webp",
-      "assets/img/products/ZHG011/ZHG011-09.webp",
-      "assets/img/products/ZHG011/ZHG011-10.webp"
     ],
     "category": "hg"
   },
@@ -1007,31 +762,6 @@
     "category": "hg"
   },
   {
-    "id": "ZLK002",
-    "title": "Plancha de Viaje Para Pelo Pichara",
-    "price": 5000,
-    "condition": "2",
-    "description": "Plancha compacta para el cabello. Tamaño portátil, adecuada para viajes o retoques rápidos. Calentamiento rápido.",
-    "images": [
-      "assets/img/products/ZLK002/ZLK002-01.webp",
-      "assets/img/products/ZLK002/ZLK002-02.webp"
-    ],
-    "category": "lk"
-  },
-  {
-    "id": "ZLK003",
-    "title": "Plancha de Viaje Para Pelo Gama + Estuche",
-    "price": 5000,
-    "condition": "2",
-    "description": "Plancha de pelo compacta marca Gama. Incluye estuche para transporte. Tamaño reducido, práctica para uso fuera de casa.",
-    "images": [
-      "assets/img/products/ZLK003/ZLK003-01.webp",
-      "assets/img/products/ZLK003/ZLK003-02.webp",
-      "assets/img/products/ZLK003/ZLK003-03.webp"
-    ],
-    "category": "lk"
-  },
-  {
     "id": "ZLK004",
     "title": "Masajeador Eléctrico Recargable Decathlon Aptonia",
     "price": 5000,
@@ -1101,18 +831,6 @@
     "category": "ms"
   },
   {
-    "id": "ZMS010",
-    "title": "2 Flautas Dulce Honner y Aulos",
-    "price": 3000,
-    "condition": "3",
-    "description": "2 flautas dulces de marcas reconocidas. Instrumentos de digitación estándar, adecuados para aprendizaje musical.",
-    "images": [
-      "assets/img/products/ZMS010/ZMS010-01.webp",
-      "assets/img/products/ZMS010/ZMS010-02.webp"
-    ],
-    "category": "ms"
-  },
-  {
     "id": "ZMS011",
     "title": "Set de 46 Uñetas Para Guitarra/Bajo de Distintos Grosores + Caja Organizadora de Uñetas",
     "price": 3000,
@@ -1132,17 +850,6 @@
     "description": "Instrumento de viento simple que modifica la voz al soplar. Uso recreativo y musical básico.",
     "images": [
       "assets/img/products/ZMS013/ZMS013-01.webp"
-    ],
-    "category": "ms"
-  },
-  {
-    "id": "ZMS015",
-    "title": "2 Pares de Baquetas Vic Firth",
-    "price": 2000,
-    "condition": "4",
-    "description": "Baquetas de marca reconocida por durabilidad y balance. Adecuadas para práctica y uso en batería acústica o electrónica.",
-    "images": [
-      "assets/img/products/ZMS015/ZMS015-01.webp"
     ],
     "category": "ms"
   },
@@ -1259,17 +966,6 @@
     "description": "Almohada cervical con antifaz diseño Osos Escandalosos Pardo. Ideal para viajes.",
     "images": [
       "assets/img/products/ZRP009/ZRP009-01.webp"
-    ],
-    "category": "rp"
-  },
-  {
-    "id": "ZRP010",
-    "title": "Almohada para viaje con Vibración Masajeador",
-    "price": 4000,
-    "condition": "2",
-    "description": "Almohada cervical con función de masaje vibratorio. Ideal para viajes largos.",
-    "images": [
-      "assets/img/products/ZRP010/ZRP010-01.webp"
     ],
     "category": "rp"
   },
@@ -1434,20 +1130,6 @@
     "category": "rp"
   },
   {
-    "id": "ZRP027",
-    "title": "Lentes Fotocromáticos Amarillos",
-    "price": 5000,
-    "condition": "2",
-    "description": "Lentes fotocromáticos que ajustan el tono de los cristales según la intensidad de la luz. Favorecen la visibilidad en distintas condiciones de iluminación y brindan protección para actividades al aire libre.",
-    "images": [
-      "assets/img/products/ZRP027/ZRP027-01.webp",
-      "assets/img/products/ZRP027/ZRP027-02.webp",
-      "assets/img/products/ZRP027/ZRP027-03.webp",
-      "assets/img/products/ZRP027/ZRP027-04.webp"
-    ],
-    "category": "rp"
-  },
-  {
     "id": "ZTC001",
     "title": "Monitor 21.5\" LG 22MP410-B",
     "price": 60000,
@@ -1470,18 +1152,6 @@
       "assets/img/products/ZTC002/ZTC002-01.webp",
       "assets/img/products/ZTC002/ZTC002-02.webp",
       "assets/img/products/ZTC002/ZTC002-03.webp"
-    ],
-    "category": "tc"
-  },
-  {
-    "id": "ZTC004",
-    "title": "Tableta Digitalizadora Wacom Bamboo Pen CTL-470 con Funda Targus",
-    "price": 10000,
-    "condition": "2",
-    "description": "Tableta gráfica Wacom Bamboo Pen CTL-470. Incluye funda Targus. Ideal para diseño, dibujo digital o clases online.",
-    "images": [
-      "assets/img/products/ZTC004/ZTC004-01.webp",
-      "assets/img/products/ZTC004/ZTC004-02.webp"
     ],
     "category": "tc"
   },
@@ -1517,24 +1187,6 @@
     "description": "Funda protectora para tablet de 10.1”. Marca Leaf.",
     "images": [
       "assets/img/products/ZTC008/ZTC008-01.webp"
-    ],
-    "category": "tc"
-  },
-  {
-    "id": "ZTC009",
-    "title": "Trípode Para Cámara Soligor WT330A (Altura Max.: 134.5 cm | Altura Min.: 51,5 cm)",
-    "price": 6000,
-    "condition": "2",
-    "description": "Trípode para cámara o celular. Altura máxima 134.5 cm, mínima 51.5 cm. Estable y portátil.",
-    "images": [
-      "assets/img/products/ZTC009/ZTC009-01.webp",
-      "assets/img/products/ZTC009/ZTC009-02.webp",
-      "assets/img/products/ZTC009/ZTC009-03.webp",
-      "assets/img/products/ZTC009/ZTC009-04.webp",
-      "assets/img/products/ZTC009/ZTC009-05.webp",
-      "assets/img/products/ZTC009/ZTC009-06.webp",
-      "assets/img/products/ZTC009/ZTC009-07.webp",
-      "assets/img/products/ZTC009/ZTC009-08.webp"
     ],
     "category": "tc"
   },
