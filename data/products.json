@@ -87,23 +87,6 @@
     "category": "cc"
   },
   {
-    "id": "ZDP001",
-    "title": "Rodilleras 187 Killer Pads Pro Knee (Talla M) + Coderas Killer Pads Slim Elbow (Talla M)",
-    "price": 80000,
-    "condition": "2",
-    "description": "Protección profesional para skate y deportes urbanos. Rodilleras Pro con alta absorción de impacto y coderas Slim más ligeras para movilidad y comodidad.",
-    "images": [
-      "assets/img/products/ZDP001/ZDP001-01.webp",
-      "assets/img/products/ZDP001/ZDP001-02.webp",
-      "assets/img/products/ZDP001/ZDP001-03.webp",
-      "assets/img/products/ZDP001/ZDP001-04.webp",
-      "assets/img/products/ZDP001/ZDP001-05.webp",
-      "assets/img/products/ZDP001/ZDP001-06.webp",
-      "assets/img/products/ZDP001/ZDP001-07.webp"
-    ],
-    "category": "dp"
-  },
-  {
     "id": "ZDP002",
     "title": "Rodillo de Entrenamiento para Bicicletas de 26\" a 29\" + Neumático 700 x 25 + Protector de Sudor",
     "price": 80000,
@@ -379,22 +362,6 @@
     "description": "Kit de herramientas (llaves y Allen) para ajuste y mantenimiento de patines. Incluye bolso para transporte.",
     "images": [
       "assets/img/products/ZDP057/ZDP057-01.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP058",
-    "title": "Casco Talla S/M 53-57 cm Triple Eight Sweatsaver Carbon Rubber",
-    "price": 10000,
-    "condition": "3",
-    "description": "Casco certificado para skate/BMX con sistema Sweatsaver (espuma absorbente de sudor). Diseño de perfil bajo, cómodo y con buena ventilación.",
-    "images": [
-      "assets/img/products/ZDP058/ZDP058-01.webp",
-      "assets/img/products/ZDP058/ZDP058-02.webp",
-      "assets/img/products/ZDP058/ZDP058-03.webp",
-      "assets/img/products/ZDP058/ZDP058-04.webp",
-      "assets/img/products/ZDP058/ZDP058-05.webp",
-      "assets/img/products/ZDP058/ZDP058-06.webp"
     ],
     "category": "dp"
   },
