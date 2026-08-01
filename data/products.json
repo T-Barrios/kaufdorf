@@ -32,20 +32,6 @@
     "category": "cc"
   },
   {
-    "id": "ZCC005",
-    "title": "Picadora 123 Moulinex XL",
-    "price": 35000,
-    "condition": "3",
-    "description": "Picadora eléctrica compacta con sistema de presión. Ideal para picar verduras, carne, frutos secos y preparaciones rápidas en segundos.",
-    "images": [
-      "assets/img/products/ZCC005/ZCC005-01.webp",
-      "assets/img/products/ZCC005/ZCC005-02.webp",
-      "assets/img/products/ZCC005/ZCC005-03.webp",
-      "assets/img/products/ZCC005/ZCC005-04.webp"
-    ],
-    "category": "cc"
-  },
-  {
     "id": "ZCC009",
     "title": "Licuadora Personal Mini Blender Blanik Bmb044 Color Verde",
     "price": 10000,
@@ -114,21 +100,6 @@
       "assets/img/products/ZDP008/ZDP008-03.webp",
       "assets/img/products/ZDP008/ZDP008-04.webp",
       "assets/img/products/ZDP008/ZDP008-05.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP017",
-    "title": "Palo de Golf con 4 Pelotas",
-    "price": 10000,
-    "condition": "3",
-    "description": "Palo de golf con 4 pelotas. Perfecto para práctica básica o recreativa.",
-    "images": [
-      "assets/img/products/ZDP017/ZDP017-01.webp",
-      "assets/img/products/ZDP017/ZDP017-02.webp",
-      "assets/img/products/ZDP017/ZDP017-03.webp",
-      "assets/img/products/ZDP017/ZDP017-04.webp",
-      "assets/img/products/ZDP017/ZDP017-05.webp"
     ],
     "category": "dp"
   },
@@ -211,33 +182,6 @@
     "category": "dp"
   },
   {
-    "id": "ZDP029",
-    "title": "Karate Kimono Blanco con Cinturón Blanco",
-    "price": 5000,
-    "condition": "4",
-    "description": "Uniforme de karate (gi) en color blanco. Incluye cinturón blanco. Tela resistente para entrenamiento, permite libertad de movimiento. La parte superior tiene desgaste visible en el cuello.",
-    "images": [
-      "assets/img/products/ZDP029/ZDP029-01.webp",
-      "assets/img/products/ZDP029/ZDP029-02.webp",
-      "assets/img/products/ZDP029/ZDP029-03.webp",
-      "assets/img/products/ZDP029/ZDP029-04.webp",
-      "assets/img/products/ZDP029/ZDP029-05.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP038",
-    "title": "2 Pares de Guantes para Bicicleta Decathlon Triban (Talla XS)",
-    "price": 4000,
-    "condition": "3",
-    "description": "Guantes de ciclismo con acolchado en palma para reducir vibración. Mejoran agarre y comodidad en rutas largas. Talla XS.",
-    "images": [
-      "assets/img/products/ZDP038/ZDP038-01.webp",
-      "assets/img/products/ZDP038/ZDP038-02.webp"
-    ],
-    "category": "dp"
-  },
-  {
     "id": "ZDP040",
     "title": "2 Cámaras de Bicicleta 700 Presta (Nuevas Sin Abrir) R-stone y Decathlon",
     "price": 6000,
@@ -290,17 +234,6 @@
     "description": "Botella de vidrio con infusor integrado para té o frutas. Permite preparar bebidas directamente. Incluye correa para transporte.",
     "images": [
       "assets/img/products/ZDP049/ZDP049-01.webp"
-    ],
-    "category": "dp"
-  },
-  {
-    "id": "ZDP050",
-    "title": "Mini Foam Roller Verde",
-    "price": 2000,
-    "condition": "2",
-    "description": "Rodillo compacto de espuma para liberación muscular. Útil para masajes en zonas específicas y recuperación post entrenamiento.",
-    "images": [
-      "assets/img/products/ZDP050/ZDP050-01.webp"
     ],
     "category": "dp"
   },
@@ -530,18 +463,6 @@
     "category": "hg"
   },
   {
-    "id": "ZHG013",
-    "title": "2 Barras Mural Para Ropa Extensible Ikea 60-90 cm",
-    "price": 6000,
-    "condition": "2",
-    "description": "Barras para colgar ropa ajustables (60 a 90 cm). Instalación mural, útiles para optimizar espacio en closets o muros.",
-    "images": [
-      "assets/img/products/ZHG013/ZHG013-01.webp",
-      "assets/img/products/ZHG013/ZHG013-02.webp"
-    ],
-    "category": "hg"
-  },
-  {
     "id": "ZHG016",
     "title": "Multímetro Tester de corriente",
     "price": 5000,
@@ -554,20 +475,6 @@
       "assets/img/products/ZHG016/ZHG016-04.webp",
       "assets/img/products/ZHG016/ZHG016-05.webp",
       "assets/img/products/ZHG016/ZHG016-06.webp"
-    ],
-    "category": "hg"
-  },
-  {
-    "id": "ZHG017",
-    "title": "Difusor de Aromas 80 ml USB Aromaterapia Humidificador",
-    "price": 5000,
-    "condition": "3",
-    "description": "Difusor/humidificador compacto con alimentación USB. Permite dispersar aromas y mejorar humedad en espacios pequeños. Capacidad 80 ml.",
-    "images": [
-      "assets/img/products/ZHG017/ZHG017-01.webp",
-      "assets/img/products/ZHG017/ZHG017-02.webp",
-      "assets/img/products/ZHG017/ZHG017-03.webp",
-      "assets/img/products/ZHG017/ZHG017-04.webp"
     ],
     "category": "hg"
   },
@@ -1092,19 +999,6 @@
       "assets/img/products/ZTC001/ZTC001-01.webp",
       "assets/img/products/ZTC001/ZTC001-02.webp",
       "assets/img/products/ZTC001/ZTC001-03.webp"
-    ],
-    "category": "tc"
-  },
-  {
-    "id": "ZTC002",
-    "title": "Monitor 18.5\" AOC",
-    "price": 30000,
-    "condition": "3",
-    "description": "Monitor AOC 18.5”. Compacto, perfecto para escritorio o segunda pantalla.",
-    "images": [
-      "assets/img/products/ZTC002/ZTC002-01.webp",
-      "assets/img/products/ZTC002/ZTC002-02.webp",
-      "assets/img/products/ZTC002/ZTC002-03.webp"
     ],
     "category": "tc"
   },
