@@ -311,20 +311,6 @@
     "category": "dp"
   },
   {
-    "id": "ZDP062",
-    "title": "Lentes Fotocromáticos Deportivos Ciclismo Running (Negro con Rojo)",
-    "price": 5000,
-    "condition": "2",
-    "description": "Lentes con ajuste automático a la luz (fotocromáticos). Mejoran visibilidad en cambios de iluminación durante ciclismo o running.",
-    "images": [
-      "assets/img/products/ZDP062/ZDP062-01.webp",
-      "assets/img/products/ZDP062/ZDP062-02.webp",
-      "assets/img/products/ZDP062/ZDP062-03.webp",
-      "assets/img/products/ZDP062/ZDP062-04.webp"
-    ],
-    "category": "dp"
-  },
-  {
     "id": "ZDP063",
     "title": "Lentes de Sol Senderismo Polarizados Decathlon MH530",
     "price": 16000,
@@ -370,19 +356,6 @@
       "assets/img/products/ZDV002/ZDV002-07.webp",
       "assets/img/products/ZDV002/ZDV002-08.webp",
       "assets/img/products/ZDV002/ZDV002-09.webp"
-    ],
-    "category": "dv"
-  },
-  {
-    "id": "ZDV007",
-    "title": "3 Peluches de Los Osos Escandalosos (Polar, Panda y Pardo)",
-    "price": 5000,
-    "condition": "1",
-    "description": "Set de 3 peluches de We Bare Bears: Polar, Panda y Pardo de material suave.",
-    "images": [
-      "assets/img/products/ZDV007/ZDV007-01.webp",
-      "assets/img/products/ZDV007/ZDV007-02.webp",
-      "assets/img/products/ZDV007/ZDV007-03.webp"
     ],
     "category": "dv"
   },
