@@ -1009,16 +1009,5 @@
       "assets/img/products/ZTC008/ZTC008-01.webp"
     ],
     "category": "tc"
-  },
-  {
-    "id": "ZTC010",
-    "title": "Accesorios Para Cámara de Acción Deportiva GoPro y Accesorios Celular",
-    "price": 4000,
-    "condition": "2",
-    "description": "Set de accesorios para cámara deportiva tipo GoPro y celular. Ideal para grabación y montaje.",
-    "images": [
-      "assets/img/products/ZTC010/ZTC010-01.webp"
-    ],
-    "category": "tc"
   }
 ]
